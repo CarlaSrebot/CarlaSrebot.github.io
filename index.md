@@ -10,7 +10,7 @@ classes: wide
 ---
 
 # Welcome to my homepage! #
-I am a Peruvian economist and PhD student at the University of British Columbia.
+I am a Peruvian economist and PhD student in Economics at the University of British Columbia.
 
 I hold a B.A. in Economics from [Universidad del Pacífico](https://www.up.edu.pe/en/), and a M.Sc. in Economics from [Universidad de San Andrés](https://udesa.edu.ar/). 
 
