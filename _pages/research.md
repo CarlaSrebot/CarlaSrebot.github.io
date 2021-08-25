@@ -36,7 +36,9 @@ classes: wide
 * **Femicide media coverage and violence reporting behavior.**
   [Carla Srebot](https://carlasrebot.github.io/).
   _Master's thesis, Universidad de San Andrés._
-  July 2021. 
+  July 2021. \\
+  [paper](https://repositorio.udesa.edu.ar/jspui/bitstream/10908/18510/1/%5bP%5d%5bW%5d%20T.M.%20Eco.%20Srebot%20Roeder%2c%20Carla%20Mar%c3%ada.pdf){: .btn .btn--info .btn--sm}
+
   
 * **Do large oil spills have effects on labor outcomes? The Peruvian case.**
   [Carla Srebot](https://carlasrebot.github.io/),
