@@ -7,5 +7,10 @@ header:
   overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
 classes: wide
 ---
-
-<iframe src="/assets/files/cv_srebot.pdf" width="100%" height="800"></iframe>
+<iframe
+    border=0
+    frameborder=0
+    height=250
+    width=550  
+    src="/assets/files/cv_srebot.pdf">
+</iframe>
