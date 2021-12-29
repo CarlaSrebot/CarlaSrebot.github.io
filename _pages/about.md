@@ -1,8 +1,7 @@
 ---
 layout: single
 permalink: /
-title: "Carla Srebot"
-excerpt: "About me"
+title: "  "
 author_profile: true
 header:
   overlay_image: /assets/images/P001.jpg
