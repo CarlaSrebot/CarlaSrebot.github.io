@@ -9,7 +9,7 @@ classes: wide
 ---
 
 <p style="text-align:left;">
-    <font size="+2"><strong>Universidad de San Andrés</strong></font>
+    <font size="+1"><strong>Universidad de San Andrés</strong></font>
     <span style="float:right;">
         <i>Mar - Dec 2020</i>
     </span>
