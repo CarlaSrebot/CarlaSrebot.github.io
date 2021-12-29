@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: "  "
+title: " "
 author_profile: true
 header:
   overlay_image: /assets/images/P001.jpg
