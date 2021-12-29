@@ -8,8 +8,7 @@ header:
 classes: wide
 ---
 ## Universidad de San Andrés
->> *Aug 2019 - Dec 2020*
-
+> *Aug 2019 - Dec 2020*
 At the Department of Economics, I was a teaching assistant for the following courses:
 
 * [Big data](https://bigdataudesa.weebly.com/) 
