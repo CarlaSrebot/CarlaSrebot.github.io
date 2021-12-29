@@ -8,7 +8,7 @@ header:
 classes: wide
 ---
 ## Universidad de San Andrés
-:date: *Mar - Dec 2020*
+*Ago 2019 - Dec 2020*
 
 At the Department of Economics, I was a teaching assistant for the following courses:
 
