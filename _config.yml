@@ -116,9 +116,6 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/CarlaSrebot"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://carlasrebot.github.io/"
 
 # Site Footer
 footer:
