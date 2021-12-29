@@ -8,9 +8,8 @@ header:
 classes: wide
 ---
 
-{% include base_path %}
 
-If you can't see my CV below, you can find it [here](https://carlasrebot.github.io/CarlaSrebot.github.io/assets/files/cv_srebot.pdf).
+If you can't see my CV below, you can find it [here](https://carlasrebot.github.io/assets/files/cv_srebot.pdf).
 
-<iframe src="https://carlasrebot.github.io/CarlaSrebot.github.io/assets/files/cv_srebot.pdf" width="100%" height="800px">    </iframe>
+<iframe src="https://carlasrebot.github.io/assets/files/cv_srebot.pdf" width="100%" height="800px">    </iframe>
 
