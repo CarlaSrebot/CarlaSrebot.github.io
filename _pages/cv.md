@@ -8,4 +8,4 @@ header:
 classes: wide
 ---
 
-<embed src="https://carlasrebot.github.io/CSrebot.github.io/assets/files/cv_srebot.pdf" type="application/pdf" width="100%" height="200"/>
+<embed src="https://carlasrebot.github.io/CSrebot.github.io/assets/files/cv_srebot.pdf" type="application/pdf" width="100%" height="75"/>
