@@ -28,8 +28,7 @@ classes: wide
   [Carla Srebot](https://carlasrebot.github.io/).
   _International Economics._
   October 2020. \\
-  <a href="https://www.sciencedirect.com/science/article/abs/pii/S211070172030086X"><i class="fas fa-fw fa-link zoom" aria-hidden="true" style="font-size:24px;color:red"></i></a>
-
+  [paper](https://www.sciencedirect.com/science/article/abs/pii/S211070172030086X): .btn .btn--info .btn--sm}
 
 ## Theses
 
@@ -37,11 +36,11 @@ classes: wide
   [Carla Srebot](https://carlasrebot.github.io/).
   _Master's thesis, Universidad de San Andrés._
   July 2021. \\
-  <a href="https://repositorio.udesa.edu.ar/jspui/bitstream/10908/18510/1/%5bP%5d%5bW%5d%20T.M.%20Eco.%20Srebot%20Roeder%2c%20Carla%20Mar%c3%ada.pdf"><i class="fa fa fa-pdf zoom" aria-hidden="true" style="font-size:36px;color:red"></i></a>
+  [paper](https://repositorio.udesa.edu.ar/jspui/bitstream/10908/18510/1/%5bP%5d%5bW%5d%20T.M.%20Eco.%20Srebot%20Roeder%2c%20Carla%20Mar%c3%ada.pdf){: .btn .btn--info .btn--sm}
 
 * **Do large oil spills have effects on labor outcomes? The Peruvian case.**
   [Carla Srebot](https://carlasrebot.github.io/),
   [Yulia Valdivia](https://pe.linkedin.com/in/yulia-valdivia-rivera-30596).
   _Diploma thesis, Universidad del Pacífico._
   July 2018. \\
-  <a href="https://repositorio.up.edu.pe/bitstream/handle/11354/3006/DI17.pdf?sequence=1&isAllowed=y"><i class="fa fa fa-pdf zoom" aria-hidden="true" style="font-size:36px;color:red"></i></a></p>
+  [paper](https://repositorio.up.edu.pe/bitstream/handle/11354/3006/DI17.pdf?sequence=1&isAllowed=y): .btn .btn--info .btn--sm}
