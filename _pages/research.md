@@ -43,4 +43,4 @@ classes: wide
   [Yulia Valdivia](https://pe.linkedin.com/in/yulia-valdivia-rivera-30596).
   _Diploma thesis, Universidad del Pacífico._
   July 2018. \\
-  [paper](https://repositorio.up.edu.pe/bitstream/handle/11354/3006/DI17.pdf?sequence=1&isAllowed=y){: .bi .bi--file .bi--earmark .bi--pdf}
+  [paper](https://repositorio.up.edu.pe/bitstream/handle/11354/3006/DI17.pdf?sequence=1&isAllowed=y){: .btn .btn--info .btn--sm}
