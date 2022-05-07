@@ -37,12 +37,7 @@ classes: wide
   [Carla Srebot](https://carlasrebot.github.io/).
   _Master's thesis, Universidad de San Andrés._
   July 2021. \\
-  <head>
-  <link rel="stylesheet" href="https://repositorio.udesa.edu.ar/jspui/bitstream/10908/18510/1/%5bP%5d%5bW%5d%20T.M.%20Eco.%20Srebot%20Roeder%2c%20Carla%20Mar%c3%ada.pdf">
-  </head>
-  <body>
-  <i class="fa fa-file-pdf-o"></i>
-  </body>
+  <a href="https://repositorio.udesa.edu.ar/jspui/bitstream/10908/18510/1/%5bP%5d%5bW%5d%20T.M.%20Eco.%20Srebot%20Roeder%2c%20Carla%20Mar%c3%ada.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 
 * **Do large oil spills have effects on labor outcomes? The Peruvian case.**
   [Carla Srebot](https://carlasrebot.github.io/),
