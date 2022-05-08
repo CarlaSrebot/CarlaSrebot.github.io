@@ -28,10 +28,7 @@ classes: wide
   [Carla Srebot](https://carlasrebot.github.io/).
   _International Economics._
   October 2020. \\
-  [paper](https://www.sciencedirect.com/science/article/abs/pii/S211070172030086X){: .btn .btn--info .btn--sm}
-
-  <a href="./product/download.html" target="_top">Download Page</a>
-
+  <div class="aside"><a href="https://www.sciencedirect.com/science/article/abs/pii/S211070172030086X"><i class="fas fa-fw fa-external-link zoom" style="font-size:24px;color:red" aria-hidden="true"></i></a></div>
 
 ## Theses
 
