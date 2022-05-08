@@ -16,8 +16,8 @@ I hold a B.A. in Economics from [Universidad del Pacífico](https://www.up.edu.p
 
 ## Interests ##
 * Development 
-* Behavioral economics 
 * Gender
+* Behavioral economics 
 * Big Data
 
 ---
