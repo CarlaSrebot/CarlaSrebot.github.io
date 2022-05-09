@@ -7,7 +7,7 @@ header:
   overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
 classes: wide
 ---
-## Universidad de San Andrés
+## <a><i class="fas fa-fw fa-school zoom" style="font-size:24px;color:#0099cc" aria-hidden="true"></i></a> Universidad de San Andrés
 *Aug 2019 - Dec 2020*
 
 At the Department of Economics, I was a teaching assistant for the following courses:
@@ -15,3 +15,4 @@ At the Department of Economics, I was a teaching assistant for the following cou
 * [Big data](https://bigdataudesa.weebly.com/) 
 * Econometrics
 * Principles of Economics
+
