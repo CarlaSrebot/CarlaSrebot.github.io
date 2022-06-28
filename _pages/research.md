@@ -10,6 +10,10 @@ classes: wide
 
 ## Published and accepted papers
 
+* **Regional Trade Agreements and Primary Education** \\
+  With _[Alberto Chong](https://aysps.gsu.edu/profile/alberto-chong/)_ \\
+  _Accepted for publication in Open Economies Review_
+
 * **Investment confidence and regional trade agreements with the United States** \\
   With _[Alberto Chong](https://aysps.gsu.edu/profile/alberto-chong/)_ \\
   _International Economics._
@@ -21,10 +25,6 @@ classes: wide
   With _[Alberto Chong](https://aysps.gsu.edu/profile/alberto-chong/)_ \\
   _Submitted for publication._
   January 2021.
-* **Regional Trade Agreements and Primary Education** \\
-  With _[Alberto Chong](https://aysps.gsu.edu/profile/alberto-chong/)_ \\
-  _Submitted for publication._
-  December 2020.
   
 ## Theses
 
