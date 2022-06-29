@@ -10,7 +10,7 @@ classes: wide
 
 ## Published and accepted papers
 
-* **Regional Trade Agreements and Primary Education** \\
+* **Can Regional Trade Agreements Negatively Impact Primary Schooling?** \\
   With _[Alberto Chong](https://aysps.gsu.edu/profile/alberto-chong/)_ \\
   _Accepted for publication in Open Economies Review_
 
@@ -21,7 +21,7 @@ classes: wide
   
 ## Work In Progress
 
-* **Oil Spills and Mental Health: Some Evidence for Peru** \\
+* **Environmental Disasters and Mental Health: Evidence from Oil Spills in The Peruvian Amazon** \\
   With _[Alberto Chong](https://aysps.gsu.edu/profile/alberto-chong/)_ \\
   _Submitted for publication._
   January 2021.
