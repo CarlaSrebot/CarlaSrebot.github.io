@@ -12,7 +12,7 @@ classes: wide
 
 * **Can Regional Trade Agreements Negatively Impact Primary Schooling?** \\
   With _[Alberto Chong](https://aysps.gsu.edu/profile/alberto-chong/)_ \\
-  _Accepted for publication in Open Economies Review_
+  Accepted for publication in _Open Economies Review_
 
 * **Investment confidence and regional trade agreements with the United States** \\
   With _[Alberto Chong](https://aysps.gsu.edu/profile/alberto-chong/)_ \\
