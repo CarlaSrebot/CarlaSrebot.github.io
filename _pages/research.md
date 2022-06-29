@@ -16,8 +16,8 @@ classes: wide
 
 * **Investment confidence and regional trade agreements with the United States** \\
   With _[Alberto Chong](https://aysps.gsu.edu/profile/alberto-chong/)_ \\
-  _International Economics._
-  October 2020. <a href="https://www.sciencedirect.com/science/article/abs/pii/S211070172030086X"><i class="fas fa-fw fa-link zoom" style="font-size:20px;color:#0099cc" aria-hidden="true"></i></a>
+  _International Economics,_
+  Vol 163, October 2020. <a href="https://www.sciencedirect.com/science/article/abs/pii/S211070172030086X"><i class="fas fa-fw fa-link zoom" style="font-size:20px;color:#0099cc" aria-hidden="true"></i></a>
   
 ## Work In Progress
 
