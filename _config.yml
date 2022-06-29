@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Carla Srebot"
-  avatar           : "/assets/images/bio-photo-srebot-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo-srebot.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Feminist & Economist"
   location         : "Vancouver, Canada"
   links:
