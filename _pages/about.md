@@ -14,6 +14,54 @@ I am a Peruvian economist and a second year PhD student in Economics at the [Uni
 
 I hold a B.A. in Economics from [Universidad del Pacífico](https://www.up.edu.pe/en/), and a M.A. in Economics from [Universidad de San Andrés](https://udesa.edu.ar/). 
 
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+
+<div class="row">
+  <div class="column">
+    <h2>Interests</h2>
+    <p>
+     <li>Development</li>
+     <li>Gender</li>
+     <li>Political Economy</li>
+    </p>
+  </div>
+  <div class="column">
+    <h2>Education</h2>
+    <p>
+    <a href="https://udesa.edu.ar/"><i class="fas fa-fw fa-school zoom" style="font-size:24px;color:black" aria-hidden="true"></i></a> M.A. in Economics, Universidad de San Andrés
+    </p>
+    <p>
+    <a href="https://www.up.edu.pe/en/"><i class="fas fa-fw fa-school zoom" style="font-size:24px;color:black" aria-hidden="true"></i></a> B.A. in Economics, Universidad del Pacífico
+
+    </p>
+ </div>
+</body>
+</html>
+
 ## Interests ##
 * Development 
 * Gender
