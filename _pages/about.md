@@ -25,16 +25,16 @@ My current  research  interest is focused  in  the  areas  of  development, gend
 /* Create two unequal columns that floats next to each other */
 .column {
   float: left;
-  padding: 10px;
+  padding: 20px;
   height: 300px; /* Should be removed. Only for demonstration */
 }
 
 .left {
-  width: 35%;
+  width: 40%;
 }
 
 .right {
-  width: 65%;
+  width: 60%;
 }
 
 /* Clear floats after the columns */
