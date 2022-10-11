@@ -26,7 +26,7 @@ My current  research  interest is focused  in  the  areas  of  development, gend
 .column {
   flex: 50%;
   float: left;
-  padding: 20px;
+  padding: 10px;
   height: 300px; /* Should be removed. Only for demonstration */
 }
 
