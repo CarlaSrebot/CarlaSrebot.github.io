@@ -24,6 +24,7 @@ My current  research  interest is focused  in  the  areas  of  development, gend
 
 /* Create two unequal columns that floats next to each other */
 .column {
+  flex: 50%;
   float: left;
   padding: 20px;
   height: 300px; /* Should be removed. Only for demonstration */
