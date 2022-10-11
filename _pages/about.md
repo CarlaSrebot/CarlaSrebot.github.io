@@ -25,7 +25,7 @@ My current  research  interest is focused  in  the  areas  of  development, gend
 /* Create two equal columns that floats next to each other */
 .column {
   float: left;
-  width: 50%;
+  width: 40%;
   padding: 10px;
   height: 300px; /* Should be removed. Only for demonstration */
 }
@@ -59,5 +59,3 @@ My current  research  interest is focused  in  the  areas  of  development, gend
 
     </p>
  </div>
-</body>
-</html>
