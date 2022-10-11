@@ -52,10 +52,15 @@ My current  research  interest is focused  in  the  areas  of  development, gend
   <div class="column">
     <h2>Interests</h2>
     <p>
-     <li>Development</li>
-     <li>Gender</li>
-     <li>Political Economy</li>
+    <a><i class="fas fa-angle-right" style="font-size:24px;color:black" aria-hidden="true"></i></a> Development
     </p>
+    <p>
+    <a><i class="fas fa-angle-right" style="font-size:24px;color:black" aria-hidden="true"></i></a> Gender
+    </p>
+    <p>
+    <a><i class="fas fa-angle-right" style="font-size:24px;color:black" aria-hidden="true"></i></a> Political Economy
+    </p>
+
   </div>
   <div class="column">
     <h2>Education</h2>
@@ -64,6 +69,5 @@ My current  research  interest is focused  in  the  areas  of  development, gend
     </p>
     <p>
     <a href="https://www.up.edu.pe/en/"><i class="fas fa-fw fa-school zoom" style="font-size:24px;color:black" aria-hidden="true"></i></a> B.A. in Economics, Universidad del Pacífico
-
     </p>
  </div>
