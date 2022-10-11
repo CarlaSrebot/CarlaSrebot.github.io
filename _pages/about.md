@@ -22,7 +22,7 @@ My current  research  interest is focused  in  the  areas  of  development, gend
   box-sizing: border-box;
 }
 
-/* Create two equal columns that floats next to each other */
+/* Create two unequal columns that floats next to each other */
 .column {
   float: left;
   padding: 10px;
@@ -30,11 +30,11 @@ My current  research  interest is focused  in  the  areas  of  development, gend
 }
 
 .left {
-  width: 30%;
+  width: 35%;
 }
 
 .right {
-  width: 70%;
+  width: 65%;
 }
 
 /* Clear floats after the columns */
