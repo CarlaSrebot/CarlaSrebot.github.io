@@ -27,7 +27,7 @@ classes: wide
   Vol 163, October 2020. <a href="https://www.sciencedirect.com/science/article/abs/pii/S211070172030086X"><i class="fas fa-fw fa-link zoom" style="font-size:20px;color:#0099cc" aria-hidden="true"></i></a>
   
 
-## Theses
+## Pre-Doctoral Theses
 
 * **Femicide media coverage and violence reporting behavior** \\
   _Master's thesis, Universidad de San Andrés._
