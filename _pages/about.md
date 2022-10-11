@@ -49,6 +49,7 @@ My current  research  interest is focused  in  the  areas  of  development, gend
 
 <div class="row">
   <div class="column">
+  <div class="column left">
     <h2>Interests</h2>
     <p>
     <a><i class="fas fa-angle-right" style="font-size:24px;color:black" aria-hidden="true"></i></a> Development
@@ -59,9 +60,11 @@ My current  research  interest is focused  in  the  areas  of  development, gend
     <p>
     <a><i class="fas fa-angle-right" style="font-size:24px;color:black" aria-hidden="true"></i></a> Political Economy
     </p>
+  </div>
 
   </div>
   <div class="column">
+  <div class="column right">
     <h2>Education</h2>
     <p>
     <a href="https://udesa.edu.ar/"><i class="fas fa-fw fa-school zoom" style="font-size:24px;color:black" aria-hidden="true"></i></a> M.A. in Economics, Universidad de San Andrés
@@ -69,4 +72,5 @@ My current  research  interest is focused  in  the  areas  of  development, gend
     <p>
     <a href="https://www.up.edu.pe/en/"><i class="fas fa-fw fa-school zoom" style="font-size:24px;color:black" aria-hidden="true"></i></a> B.A. in Economics, Universidad del Pacífico
     </p>
+ </div>
  </div>
