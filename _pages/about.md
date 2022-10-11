@@ -22,26 +22,15 @@ My current  research  interest is focused  in  the  areas  of  development, gend
   box-sizing: border-box;
 }
 
-/* Create two unequal columns that floats next to each other */
+.row {
+  display: flex;
+}
+
+/* Create two equal columns that sits next to each other */
 .column {
-  float: left;
+  flex: 50%;
   padding: 10px;
   height: 300px; /* Should be removed. Only for demonstration */
-}
-
-.left {
-  width: 45%;
-}
-
-.right {
-  width: 55%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
 }
 </style>
 </head>
@@ -49,7 +38,6 @@ My current  research  interest is focused  in  the  areas  of  development, gend
 
 <div class="row">
   <div class="column">
-  <div class="column left">
     <h2>Interests</h2>
     <p>
     <a><i class="fas fa-angle-right" style="font-size:24px;color:black" aria-hidden="true"></i></a> Development
@@ -61,10 +49,7 @@ My current  research  interest is focused  in  the  areas  of  development, gend
     <a><i class="fas fa-angle-right" style="font-size:24px;color:black" aria-hidden="true"></i></a> Political Economy
     </p>
   </div>
-
-  </div>
   <div class="column">
-  <div class="column right">
     <h2>Education</h2>
     <p>
     <a href="https://udesa.edu.ar/"><i class="fas fa-fw fa-school zoom" style="font-size:24px;color:black" aria-hidden="true"></i></a> M.A. in Economics, Universidad de San Andrés
@@ -72,5 +57,4 @@ My current  research  interest is focused  in  the  areas  of  development, gend
     <p>
     <a href="https://www.up.edu.pe/en/"><i class="fas fa-fw fa-school zoom" style="font-size:24px;color:black" aria-hidden="true"></i></a> B.A. in Economics, Universidad del Pacífico
     </p>
- </div>
  </div>
