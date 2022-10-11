@@ -14,21 +14,6 @@ I am a Peruvian economist and a second year PhD student in Economics at the [Uni
 
 I hold a B.A. in Economics from [Universidad del Pacífico](https://www.up.edu.pe/en/), and a M.A. in Economics from [Universidad de San Andrés](https://udesa.edu.ar/). 
 
-
-::: {.columns}
-::: {.column width="50%"}
-
-** Intersts **
-
-:::
-::: {.column width="50%"}
-
-** Intersts **
-
-:::
-:::
-
-
 ## Interests ##
 * Development 
 * Gender
