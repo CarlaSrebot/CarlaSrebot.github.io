@@ -31,11 +31,11 @@ My current  research  interest is focused  in  the  areas  of  development, gend
 }
 
 .left {
-  width: 40%;
+  width: 50%;
 }
 
 .right {
-  width: 60%;
+  width: 50%;
 }
 
 /* Clear floats after the columns */
