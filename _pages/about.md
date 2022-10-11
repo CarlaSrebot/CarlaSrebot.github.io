@@ -12,7 +12,7 @@ classes: wide
 # Welcome to my homepage! #
 I am a Peruvian economist and a second year PhD student in Economics at the [University of British Columbia](https://www.ubc.ca/).
 
-I hold a B.A. in Economics from [Universidad del Pacífico](https://www.up.edu.pe/en/), and a M.A. in Economics from [Universidad de San Andrés](https://udesa.edu.ar/). 
+My current  research  interest is focused  in  the  areas  of  development, gender and  political economics.
 
 <html>
 <head>
@@ -61,11 +61,3 @@ I hold a B.A. in Economics from [Universidad del Pacífico](https://www.up.edu.p
  </div>
 </body>
 </html>
-
-## Interests ##
-* Development 
-* Gender
-* Behavioral economics 
-* Big Data
-
----
