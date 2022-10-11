@@ -30,14 +30,6 @@ My current  research  interest is focused  in  the  areas  of  development, gend
   height: 300px; /* Should be removed. Only for demonstration */
 }
 
-.left {
-  width: 50%;
-}
-
-.right {
-  width: 50%;
-}
-
 /* Clear floats after the columns */
 .row:after {
   content: "";
