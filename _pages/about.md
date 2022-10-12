@@ -9,6 +9,11 @@ header:
 classes: wide
 ---
 
+# Welcome to my homepage! #
+I am a Peruvian economist and a second year PhD student in Economics at the [University of British Columbia](https://www.ubc.ca/).
+
+My current  research  interest is focused  in  the  areas  of  development, gender and  political economics.
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -30,10 +35,6 @@ classes: wide
 </style>
 </head>
 <body>
-
-<h1>Welcome to my homepage!</h1>
-<p> I am a Peruvian economist and a second year PhD student in Economics at the [University of British Columbia](https://www.ubc.ca/). </p>
-<p> My current  research  interest is focused  in  the  areas  of  development, gender and  political economics.</p>
 
 <div class="row">
   <div class="column">
