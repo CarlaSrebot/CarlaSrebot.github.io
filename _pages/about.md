@@ -39,22 +39,16 @@ My current  research  interest is focused  in  the  areas  of  development, gend
 <div class="row">
   <div class="column">
     <h2>Interests</h2>
-    <p>
-    <a><i class="fas fa-caret-right" style="font-size:24px;color:black" aria-hidden="true"></i></a> Development
-    </p>
-    <p>
-    <a><i class="fas fa-caret-right" style="font-size:24px;color:black" aria-hidden="true"></i></a> Gender
-    </p>
-    <p>
-    <a><i class="fas fa-caret-right" style="font-size:24px;color:black" aria-hidden="true"></i></a> Political Economy
-    </p>
+    <p><a><i class="fas fa-caret-right" style="font-size:24px;color:black" aria-hidden="true"></i></a> Development
+    <br><a><i class="fas fa-caret-right" style="font-size:24px;color:black" aria-hidden="true"></i></a> Gender<br>
+    <a><i class="fas fa-caret-right" style="font-size:24px;color:black" aria-hidden="true"></i></a> Political Economy</p>
   </div>
   <div class="column">
     <h2>Education</h2>
     <p><a href="https://www.ubc.ca/"><i class="fas fa-graduation-cap" style="font-size:24px;color:black" aria-hidden="true"></i></a> PhD in Economics, 2021 - Present 
-    <br><font size="-0.5">&nbsp;&nbsp;University of British Columbia</font></p>
+    <br><font size="-0.3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of British Columbia</font></p>
     <p><a href="https://udesa.edu.ar/"><i class="fas fa-graduation-cap" style="font-size:24px;color:black" aria-hidden="true"></i></a> M.A. in Economics, 2019
-    <br><font size="-0.5">&nbsp;&nbsp;Universidad de San Andrés</font></p>
+    <br><font size="-0.3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Universidad de San Andrés</font></p>
     <p><a href="https://www.up.edu.pe/en/"><i class="fas fa-graduation-cap" style="font-size:24px;color:black" aria-hidden="true"></i></a> B.A. in Economics, 2018  
-    <br><font size="-0.5">&nbsp;&nbsp;Universidad del Pacífico</font></p>
+    <br><font size="-0.3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Universidad del Pacífico</font></p>
  </div>
