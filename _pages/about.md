@@ -40,13 +40,13 @@ My current  research  interest is focused  in  the  areas  of  development, gend
   <div class="column">
     <h2>Interests</h2>
     <p>
-    <a><i class="fas fa-angle-right" style="font-size:24px;color:black" aria-hidden="true"></i></a> Development
+    <a><i class="fas fa-dice-one" style="font-size:24px;color:black" aria-hidden="true"></i></a> Development
     </p>
     <p>
-    <a><i class="fas fa-angle-right" style="font-size:24px;color:black" aria-hidden="true"></i></a> Gender
+    <a><i class="fas fa-dice-two" style="font-size:24px;color:black" aria-hidden="true"></i></a> Gender
     </p>
     <p>
-    <a><i class="fas fa-angle-right" style="font-size:24px;color:black" aria-hidden="true"></i></a> Political Economy
+    <a><i class="fas fa-dice-three" style="font-size:24px;color:black" aria-hidden="true"></i></a> Political Economy
     </p>
   </div>
   <div class="column">
