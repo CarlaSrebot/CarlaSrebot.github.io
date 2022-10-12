@@ -51,10 +51,8 @@ My current  research  interest is focused  in  the  areas  of  development, gend
   </div>
   <div class="column">
     <h2>Education</h2>
-    <pre>
-    <a href="https://www.ubc.ca/"><i class="fas fa-graduation-cap" style="font-size:24px;color:black" aria-hidden="true"></i></a> PhD in Economics, 2021 - Present
-    <font size="-2">University of British Columbia</font> 
-    </pre> 
+    <p><a href="https://www.ubc.ca/"><i class="fas fa-graduation-cap" style="font-size:24px;color:black" aria-hidden="true"></i></a> PhD in Economics, 2021 - Present </p>
+    <p><font size="-1">University of British Columbia</font></p>
     <p>
     <a href="https://udesa.edu.ar/"><i class="fas fa-graduation-cap" style="font-size:24px;color:black" aria-hidden="true"></i></a> M.A. in Economics, Universidad de San Andrés
     </p>
