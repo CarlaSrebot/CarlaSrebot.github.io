@@ -8,8 +8,7 @@ header:
 classes: wide
 ---
 
-
-If you can't see my CV below, you can find it [here](https://carlasrebot.github.io/assets/files/cv_srebot.pdf).
+<a class="btn btn-outline-primary btn-page-header" href="/files/cv_srebot.pdf" target="_blank" rel="noopener">DOWNLOAD CV</a>
 
 <iframe src="https://carlasrebot.github.io/assets/files/cv_srebot.pdf" width="100%" height="800px">    </iframe>
 
