@@ -8,6 +8,6 @@ header:
 classes: wide
 ---
 
-<button type="button" href="https://carlasrebot.github.io/assets/files/cv_srebot.pdf" class="btn btn-outline-primary">DOWNLOAD CV</button>
+<a class="btn btn-info" href="https://carlasrebot.github.io/assets/files/cv_srebot.pdf" role="button">DOWNLOAD CV</a>
 
 <iframe src="https://carlasrebot.github.io/assets/files/cv_srebot.pdf" width="100%" height="800px">    </iframe>
