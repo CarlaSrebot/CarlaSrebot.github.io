@@ -12,19 +12,18 @@ classes: wide
 
 * **Environmental Disasters and Mental Health: Evidence from Oil Spills in The Peruvian Amazon** \\
   With _[Alberto Chong](https://aysps.gsu.edu/profile/alberto-chong/)_ \\
-  Accepted for publication in _Review of Development Economics,_
-  October 2022.
-  
+  _Review of Development Economics,_
+  November 2022. <a href="https://doi.org/10.1111/rode.12955"><i class="fas fa-fw fa-link zoom" style="font-size:20px;color:#0099cc" aria-hidden="true"></i></a>
   
 * **Can Regional Trade Agreements Negatively Impact Primary Schooling?** \\
   With _[Alberto Chong](https://aysps.gsu.edu/profile/alberto-chong/)_ \\
   _Open Economies Review,_
-   July 2022. <a href=" https://link.springer.com/article/10.1007/s11079-022-09674-6"><i class="fas fa-fw fa-link zoom" style="font-size:20px;color:#0099cc" aria-hidden="true"></i></a>
+   July 2022. <a href="https://doi.org/10.1007/s11079-022-09674-6"><i class="fas fa-fw fa-link zoom" style="font-size:20px;color:#0099cc" aria-hidden="true"></i></a>
 
 * **Investment confidence and regional trade agreements with the United States** \\
   With _[Alberto Chong](https://aysps.gsu.edu/profile/alberto-chong/)_ \\
   _International Economics,_
-  Vol 163, October 2020. <a href="https://www.sciencedirect.com/science/article/abs/pii/S211070172030086X"><i class="fas fa-fw fa-link zoom" style="font-size:20px;color:#0099cc" aria-hidden="true"></i></a>
+  Vol 163, October 2020. <a href="https://doi.org/10.1016/j.inteco.2020.05.001"><i class="fas fa-fw fa-link zoom" style="font-size:20px;color:#0099cc" aria-hidden="true"></i></a>
   
 
 ## Pre-Doctoral Theses
