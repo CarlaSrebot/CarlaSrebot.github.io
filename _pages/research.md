@@ -11,12 +11,12 @@ classes: wide
 ## Published and accepted papers
 
 * **[Environmental Disasters and Mental Health: Evidence from Oil Spills in The Peruvian Amazon](https://doi.org/10.1111/rode.12955)** \\
-  With <a href="https://aysps.gsu.edu/profile/alberto-chong/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Alberto Chong</a> \\
+  With <a href="https://aysps.gsu.edu/profile/alberto-chong/" style="color: black; text-decoration: underline;">Alberto Chong</a> \\
   _Review of Development Economics,_
   November 2022. 
 
 * **[Can Regional Trade Agreements Negatively Impact Primary Schooling?](https://doi.org/10.1007/s11079-022-09674-6)** \\
-  With _[Alberto Chong](https://aysps.gsu.edu/profile/alberto-chong/)_ \\
+  With <a href="https://aysps.gsu.edu/profile/alberto-chong/" style="color: black; text-decoration: underline;">Alberto Chong</a> \\
   _Open Economies Review,_
    July 2022. 
 
