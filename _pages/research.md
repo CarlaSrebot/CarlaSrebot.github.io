@@ -10,7 +10,7 @@ classes: wide
 
 ## Published and accepted papers
 
-* **Environmental Disasters and Mental Health: Evidence from Oil Spills in The Peruvian Amazon** \\
+* **[Environmental Disasters and Mental Health: Evidence from Oil Spills in The Peruvian Amazon](https://doi.org/10.1111/rode.12955)** \\
   With _[Alberto Chong](https://aysps.gsu.edu/profile/alberto-chong/)_ \\
   _Review of Development Economics,_
   November 2022. <a href="https://doi.org/10.1111/rode.12955"><i class="fas fa-fw fa-link zoom" style="font-size:20px;color:#0099cc" aria-hidden="true"></i></a>
