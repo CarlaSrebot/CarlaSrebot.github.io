@@ -18,7 +18,7 @@ classes: wide
 * **[Can Regional Trade Agreements Negatively Impact Primary Schooling?](https://doi.org/10.1007/s11079-022-09674-6)** \\
   With <a href="https://aysps.gsu.edu/profile/alberto-chong/" style="color: black; text-decoration: underline;">Alberto Chong</a> \\
   _Open Economies Review,_
-   July 2022. 
+  Vol 34, July 2022. 
 
 * **[Investment confidence and regional trade agreements with the United States](https://doi.org/10.1016/j.inteco.2020.05.001)** \\
   With <a href="https://aysps.gsu.edu/profile/alberto-chong/" style="color: black; text-decoration: underline;">Alberto Chong</a> \\
