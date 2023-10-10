@@ -9,7 +9,7 @@ classes: wide
 ---
 
 ## Selected Work in Progress
-* Labor market flexibility and gender heterogeneity in labor allocation: Evidence from the Brazilian Labor Reform 
+* Labor Market Flexibility and Gender Heterogeneity in Labor Allocation: Evidence from the Brazilian Labor Reform 
 
 ## Publications
 
@@ -23,7 +23,7 @@ classes: wide
   _Open Economies Review,_
   Vol 34, April 2023. 
 
-* **[Investment confidence and regional trade agreements with the United States](https://doi.org/10.1016/j.inteco.2020.05.001)** \\
+* **[Investment Confidence and Regional Trade Agreements with the United States](https://doi.org/10.1016/j.inteco.2020.05.001)** \\
   With <a href="https://aysps.gsu.edu/profile/alberto-chong/" style="color: black; text-decoration: underline;">Alberto Chong</a> \\
   _International Economics,_
   Vol 163, October 2020. 
