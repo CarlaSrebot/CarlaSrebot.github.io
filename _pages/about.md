@@ -12,7 +12,7 @@ classes: wide
 # Welcome to my homepage! #
 I am a Peruvian economist and a second year PhD student in Economics at the [University of British Columbia](https://www.ubc.ca/).
 
-My current  research  interest is focused  in  the  areas  of  development, gender and  political economics.
+My current  research  interest is focused  in  the  areas  of  development, labor and  gender.
 
 <html>
 <head>
@@ -40,8 +40,8 @@ My current  research  interest is focused  in  the  areas  of  development, gend
   <div class="column">
     <h2>Interests</h2>
     <p><a><i class="fas fa-caret-right" style="font-size:24px;color:black" aria-hidden="true"></i></a> Development
-    <br><a><i class="fas fa-caret-right" style="font-size:24px;color:black" aria-hidden="true"></i></a> Gender<br>
-    <a><i class="fas fa-caret-right" style="font-size:24px;color:black" aria-hidden="true"></i></a> Political Economy</p>
+    <br><a><i class="fas fa-caret-right" style="font-size:24px;color:black" aria-hidden="true"></i></a> Labor <br>
+    <a><i class="fas fa-caret-right" style="font-size:24px;color:black" aria-hidden="true"></i></a> Gender </p>
   </div>
   <div class="column">
     <h2>Education</h2>
