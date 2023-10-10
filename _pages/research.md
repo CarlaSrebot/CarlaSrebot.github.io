@@ -8,7 +8,10 @@ header:
 classes: wide
 ---
 
-## Published and accepted papers
+## Selected Work in Progress
+* Labor market flexibility and gender heterogeneity in labor allocation: Evidence from the Brazilian Labor Reform 
+
+## Publications
 
 * **[Environmental Disasters and Mental Health: Evidence from Oil Spills in The Peruvian Amazon](https://doi.org/10.1111/rode.12955)** \\
   With <a href="https://aysps.gsu.edu/profile/alberto-chong/" style="color: black; text-decoration: underline;">Alberto Chong</a> \\
@@ -34,5 +37,5 @@ classes: wide
 
 * **Do large oil spills have effects on labor outcomes? The Peruvian case** \\
   With <a href="https://pe.linkedin.com/in/yulia-valdivia-rivera-30596" style="color: black; text-decoration: underline;">Yulia Valdivia</a> \\
-  _Diploma thesis, Universidad del Pacífico._
+  _Bachelor's thesis, Universidad del Pacífico._
   July 2018. <a href="https://repositorio.up.edu.pe/bitstream/handle/11354/3006/DI17.pdf?sequence=1&isAllowed=y"><i class="fas fa-fw fa-file-pdf zoom" style="font-size:24px;color:#0099cc" aria-hidden="true"></i></a>

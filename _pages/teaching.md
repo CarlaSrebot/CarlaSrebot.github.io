@@ -7,6 +7,10 @@ header:
   overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
 classes: wide
 ---
+## <a href="https://www.up.edu.pe/en/"><i class="fas fa-fw fa-school zoom" style="font-size:24px;color:black" aria-hidden="true"></i></a> University of British Columbia
+
+* _Teaching assistant_, Data in Economics (2023)
+
 ## <a href="https://www.up.edu.pe/en/"><i class="fas fa-fw fa-school zoom" style="font-size:24px;color:black" aria-hidden="true"></i></a> Universidad del Pacífico
 
 * _Teaching assistant_, Econometrics (2021)

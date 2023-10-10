@@ -10,7 +10,7 @@ classes: wide
 ---
 
 # Welcome to my homepage! #
-I am a Peruvian economist and a second year PhD student in Economics at the [University of British Columbia](https://www.ubc.ca/).
+I am a Peruvian economist and a third year PhD student in Economics at the [University of British Columbia](https://www.ubc.ca/).
 
 My current  research  interest is focused  in  the  areas  of  development, labor and  gender.
 
