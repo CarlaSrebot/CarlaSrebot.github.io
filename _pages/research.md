@@ -9,10 +9,10 @@ classes: wide
 ---
 
 ## Selected Work in Progress
-* [Labor Market Flexibility and Gender Heterogeneity in Labor Allocation: Evidence from the Brazilian Labor Reform](/research_posts/Bra_LaborAllocation.md)
+* Labor Market Flexibility and Gender Heterogeneity in Labor Allocation: Evidence from the Brazilian Labor Reform
 
-* Can Property Rights Foster Individualism? \\ 
- With <a href="https://christian-maruthiah.com/" style="color: black; text-decoration: underline;">Christian Maruthiah</a>
+* Can Property Rights Foster Individualism? \\
+  With <a href="https://christian-maruthiah.com/" style="color: black; text-decoration: underline;">Christian Maruthiah</a>
 
 ## Publications
 
