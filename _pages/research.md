@@ -11,6 +11,12 @@ classes: wide
 <html>
 <head>
 <style>
+ details> summary {
+    list-style-type: none; /* This removes the default arrow */
+    cursor: pointer;
+    position: relative;
+    margin-left: 24px;
+}
 details> summary:before, details[open]> summary:before {
     content: '';
     position: absolute;
