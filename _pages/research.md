@@ -8,7 +8,7 @@ header:
 classes: wide
 ---
 
-details> summary:before, details[open]> summary:before {
+.details> summary:before, details[open]> summary:before {
     content: '+';
     position: absolute;
     width: 16px;
@@ -17,7 +17,7 @@ details> summary:before, details[open]> summary:before {
     transition: .2s;
 }
  
-details[open]> summary:before {
+.details[open]> summary:before {
     content: '-';
 }
 
