@@ -11,17 +11,11 @@ classes: wide
 <html>
 <head>
 <style>
-details> summary:before, details[open]> summary:before {
-    content: '+';
-    position: absolute;
-    width: 16px;
-    height: 16px;
-    left: -21px;
-    transition: .2s;
-}
- 
-details[open]> summary:before {
-    content: '-';
+details> summary {
+    list-style-type: none; /* This removes the default arrow */
+    cursor: pointer;
+    position: relative;
+    margin-left: 24px;
 }
 </style>
 </head>
