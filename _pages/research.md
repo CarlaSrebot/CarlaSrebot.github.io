@@ -30,7 +30,7 @@ classes: wide
 
 
 * <details>
-    <summary><a><p>Can Property Rights Foster Individualism?</a><br>
+    <summary><p><a>Can Property Rights Foster Individualism?</a><br>
     With <a href="https://christian-maruthiah.com/" style="color: black; text-decoration: underline;">Christian Maruthiah</a>
     </p>
     </summary>
