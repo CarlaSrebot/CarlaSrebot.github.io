@@ -38,7 +38,6 @@ classes: wide
       </p>
   </details>
  
- 
 ## Publications
 
 * [Environmental Disasters and Mental Health: Evidence from Oil Spills in The Peruvian Amazon](https://doi.org/10.1111/rode.12955) \\
