@@ -29,14 +29,14 @@ classes: wide
   </details> 
 
 
-<details>
-  <summary><p><b>Can Property Rights Foster Individualism?</b><br>
-  With <a href="https://christian-maruthiah.com/" style="color: black; text-decoration: underline;">Christian Maruthiah</a>
-  </p>
-  </summary>
-    <p align="justify"><b>Abstract.-</b> Individualism has been shown to have important economic, social and political consequences. This project examines whether individualism can be fostered by government policy, the degree to which it persists across generations, and its long-run implications for local economic development. We study these questions in the context of an ambitious land allotment programme targeting Native Americans in the early-20th century, using a range of historical and contemporary data sources. At the individual-level, we examine the effects of allotment on naming practices, intermarriage, participation in Native American civil rights associations, and location choice among descendants up to 100 years later. In order to document the long-term political and social consequences of allotment at the reservation-level, we construct new datasets on public goods provision, the occurence of and issues raised in local public meetings, and the content of modern tribal constitutions.	
+* <details>
+    <summary><p><b>Can Property Rights Foster Individualism?</b><br>
+    With <a href="https://christian-maruthiah.com/" style="color: black; text-decoration: underline;">Christian Maruthiah</a>
     </p>
-</details>
+    </summary>
+      <p align="justify"><b>Abstract.-</b> Individualism has been shown to have important economic, social and political consequences. This project examines whether individualism can be fostered by government policy, the degree to which it persists across generations, and its long-run implications for local economic development. We study these questions in the context of an ambitious land allotment programme targeting Native Americans in the early-20th century, using a range of historical and contemporary data sources. At the individual-level, we examine the effects of allotment on naming practices, intermarriage, participation in Native American civil rights associations, and location choice among descendants up to 100 years later. In order to document the long-term political and social consequences of allotment at the reservation-level, we construct new datasets on public goods provision, the occurence of and issues raised in local public meetings, and the content of modern tribal constitutions.	
+      </p>
+  </details>
  
  
 ## Publications
