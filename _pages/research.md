@@ -23,14 +23,14 @@ classes: wide
 
 ## Selected Work in Progress
 * <details>
-    <summary><a><p><b>Labor Market Flexibility and Gender Heterogeneity in Labor Allocation: Evidence from the Brazilian Labor Reform</b></p></a></summary>
+    <summary><a><p>Labor Market Flexibility and Gender Heterogeneity in Labor Allocation: Evidence from the Brazilian Labor Reform</p></a></summary>
     <p align="justify"><b>Abstract.-</b> Does greater flexibility create job opportunities and improve labor allocation? Within the context of high regulation costs that impose constraints on working hours, I investigate how firms and workers respond to the 2017 Brazilian labor reform, a policy that removed constraints on flexible work schedules. Leveraging matched employer-employee data and firm-level variation on hours worked, I show that this policy change led to an increase in employment, especially in part-time positions. Notably, women experienced greater employment gains. At the state level, I observe that while the reform did not significantly impact unemployment rates, it contributed to reduce informality, which accounted for 40% of the workforce in 2016. Gender-specific analysis suggests that this effect is mostly driven by men transitioning from informal to formal employment, whereas women seem to reallocate within the formal market. These findings highlight the interplay between labor market flexibility and gender disparities, emphasizing the potential of such reforms to reshape employment allocation. The case of the Brazilian reform provides a more nuanced view when informality is taken into account. 	
     </p>
   </details> 
 
 
 * <details>
-    <summary><p><b>Can Property Rights Foster Individualism?</b><br>
+    <summary><a><p>Can Property Rights Foster Individualism?</a><br>
     With <a href="https://christian-maruthiah.com/" style="color: black; text-decoration: underline;">Christian Maruthiah</a>
     </p>
     </summary>
@@ -41,17 +41,17 @@ classes: wide
  
 ## Publications
 
-* **[Environmental Disasters and Mental Health: Evidence from Oil Spills in The Peruvian Amazon](https://doi.org/10.1111/rode.12955)** \\
+* [Environmental Disasters and Mental Health: Evidence from Oil Spills in The Peruvian Amazon](https://doi.org/10.1111/rode.12955) \\
   With <a href="https://aysps.gsu.edu/profile/alberto-chong/" style="color: black; text-decoration: underline;">Alberto Chong</a> \\
   _Review of Development Economics,_
   Vol 27, May 2023. 
 
-* **[Can Regional Trade Agreements Negatively Impact Primary Schooling?](https://doi.org/10.1007/s11079-022-09674-6)** \\
+* [Can Regional Trade Agreements Negatively Impact Primary Schooling?](https://doi.org/10.1007/s11079-022-09674-6) \\
   With <a href="https://aysps.gsu.edu/profile/alberto-chong/" style="color: black; text-decoration: underline;">Alberto Chong</a> \\
   _Open Economies Review,_
   Vol 34, April 2023. 
 
-* **[Investment Confidence and Regional Trade Agreements with the United States](https://doi.org/10.1016/j.inteco.2020.05.001)** \\
+* [Investment Confidence and Regional Trade Agreements with the United States](https://doi.org/10.1016/j.inteco.2020.05.001) \\
   With <a href="https://aysps.gsu.edu/profile/alberto-chong/" style="color: black; text-decoration: underline;">Alberto Chong</a> \\
   _International Economics,_
   Vol 163, October 2020. 
