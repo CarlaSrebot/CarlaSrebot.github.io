@@ -11,13 +11,16 @@ classes: wide
 <html>
 <head>
 <style>
- details> summary {
-    list-style-type: none; /* This removes the default arrow */
-    cursor: pointer;
-    position: relative;
-    margin-left: 0px;
-    display:none;
+details> summary {
+  list-style-type: none; /* This removes the default arrow */
+  cursor: pointer;
+  position: relative;
+  margin-left: 0px;
 }
+details > summary::-webkit-details-marker {
+  display: none;
+}
+
 </style>
 </head>
 </html>
