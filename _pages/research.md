@@ -16,6 +16,7 @@ classes: wide
     cursor: pointer;
     position: relative;
     margin-left: 0px;
+    display:none;
 }
 </style>
 </head>
