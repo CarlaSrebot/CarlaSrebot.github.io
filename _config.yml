@@ -20,7 +20,7 @@ title                    : "Carla Srebot"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Carla Srebot"
-description              : "Feminist & Economist"
+description              : "Economist"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "CarlaSrebot/CarlaSrebot.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:csrebot@mail.ubc.ca"
+      url: "mailto:csrebot@student.ubc.ca"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CarlaSrebot"
@@ -122,7 +122,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:csrebot@mail.ubc.ca"
+      url: "mailto:csrebot@student.ubc.ca"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CarlaSrebot"

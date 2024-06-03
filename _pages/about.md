@@ -36,19 +36,21 @@ My current  research  interest is focused  in  the  areas  of  labor, developmen
 </head>
 <body>
 
-<div class="row">
-  <div class="column">
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 20px;">
     <h2>Interests</h2>
-    <p><a><i class="fas fa-caret-right" style="font-size:24px;color:black" aria-hidden="true"></i></a> Labor
-    <br><a><i class="fas fa-caret-right" style="font-size:24px;color:black" aria-hidden="true"></i></a> Development <br>
-    <a><i class="fas fa-caret-right" style="font-size:24px;color:black" aria-hidden="true"></i></a> Gender </p>
+    <ul>
+      <li>Labor</li>
+      <li>Development</li>
+      <li>Gender</li>
+    </ul>
   </div>
-  <div class="column">
+  <div style="flex: 1; margin-left: 20px;">
     <h2>Education</h2>
-    <p><a href="https://www.ubc.ca/"><i class="fas fa-graduation-cap" style="font-size:24px;color:black" aria-hidden="true"></i></a> PhD in Economics, 2021 - Present 
-    <br><font size="-0.2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of British Columbia</font>
-    <br><a href="https://udesa.edu.ar/"><i class="fas fa-graduation-cap" style="font-size:24px;color:black" aria-hidden="true"></i></a> M.A. in Economics, 2019
-    <br><font size="-0.2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Universidad de San Andrés</font>
-    <br><a href="https://www.up.edu.pe/en/"><i class="fas fa-graduation-cap" style="font-size:24px;color:black" aria-hidden="true"></i></a> B.A. in Economics, 2018  
-    <br><font size="-0.2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Universidad del Pacífico</font></p>
- </div>
+    <ul>
+      <li><strong>PhD in Economics, 2021 - Present</strong><br>University of British Columbia</li>
+      <li><strong>M.A. in Economics, 2019</strong><br>Universidad de San Andrés</li>
+      <li><strong>B.A. in Economics, 2018</strong><br>Universidad del Pacífico</li>
+    </ul>
+  </div>
+</div>
