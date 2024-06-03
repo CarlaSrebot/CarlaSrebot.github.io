@@ -48,9 +48,9 @@ My current  research  interest is focused  in  the  areas  of  labor, developmen
   <div style="flex: 1; margin-left: 20px;">
     <h2>Education</h2>
     <ul style="list-style: none; padding-left: 0;">
-      <li><i class="fas fa-graduation-cap"></i> PhD in Economics, 2021 - Present<br><span style="font-size: 0.9em;">University of British Columbia</span></li>
-      <li><i class="fas fa-graduation-cap"></i> M.A. in Economics, 2019<br><span style="font-size: 0.9em;">Universidad de San Andrés</span></li>
-      <li><i class="fas fa-graduation-cap"></i> B.A. in Economics, 2018<br><span style="font-size: 0.9em;">Universidad del Pacífico</span></li>
+      <li><i class="fas fa-graduation-cap"></i> PhD in Economics, 2021 - Present<br><span style="font-size: 0.8em;">University of British Columbia</span></li>
+      <li><i class="fas fa-graduation-cap"></i> M.A. in Economics, 2019<br><span style="font-size: 0.8em;">Universidad de San Andrés</span></li>
+      <li><i class="fas fa-graduation-cap"></i> B.A. in Economics, 2018<br><span style="font-size: 0.8em;">Universidad del Pacífico</span></li>
     </ul>
   </div>
 </div>
