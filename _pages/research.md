@@ -27,7 +27,7 @@ details > summary::-webkit-details-marker {
 
 ## Selected Work in Progress
 
-* <p><a>Disempowered Unions, Collective Bargaining, and Wage Inequality</a><br>
+* <p>Disempowered Unions, Collective Bargaining, and Wage Inequality<br>
     With <a href="https://pascuel.github.io/" style="color: black; text-decoration: underline;">Pascuel Plotkin</a>
   </p>
 
