@@ -27,12 +27,9 @@ details > summary::-webkit-details-marker {
 
 ## Selected Work in Progress
 
-* <details>
-    <p><a>Disempowered Unions, Collective Bargaining, and Wage Inequality</a><br>
+* <p><a>Disempowered Unions, Collective Bargaining, and Wage Inequality</a><br>
     With <a href="https://pascuel.github.io/" style="color: black; text-decoration: underline;">Pascuel Plotkin</a>
-    </p>
-  </details>
-
+  </p>
 
 * <details>
     <summary><a><p>Labor Market Flexibility and Gender Heterogeneity in Labor Allocation</p></a></summary>
