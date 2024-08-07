@@ -26,6 +26,14 @@ details > summary::-webkit-details-marker {
 </html>
 
 ## Selected Work in Progress
+
+* <details>
+    <p><a>Disempowered Unions, Collective Bargaining, and Wage Inequality</a><br>
+    With <a href="https://pascuel.github.io/" style="color: black; text-decoration: underline;">Pascuel Plotkin</a>
+    </p>
+  </details>
+
+
 * <details>
     <summary><a><p>Labor Market Flexibility and Gender Heterogeneity in Labor Allocation</p></a></summary>
     <p align="justify"><b>Abstract.-</b>	Does greater flexibility create job opportunities and improve labor allocation? This paper examines how firms and workers respond to a labor market flexibility shock in a setting characterized by high regulation costs. Focusing on the Brazilian labor market, I leverage linked formal employer-employee data to analyze the impacts of the 2017 Labor Reform, a policy that removed constraints on flexible work schedules. I show that this policy change led to an increase in job opportunities and employment, especially in part-time positions. Notably, women experienced greater employment gains. At the state level, I observe that while the reform did not significantly impact unemployment rates, it contributed to reduce informality, which accounted for 40\% of the workforce in 2016. Gender-specific analysis indicates that this effect is primarily driven by women transitioning from informal to formal employment within the private sector in the short run, followed by both women and men in the state-level economy in the medium run. These findings underscore the interaction between labor market flexibility and gender disparities, underscoring the potential of such reforms to reconfigure employment allocation. The case of the Brazilian reform offers a more nuanced perspective when informality is considered.	
