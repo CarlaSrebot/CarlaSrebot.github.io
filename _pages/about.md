@@ -10,7 +10,7 @@ classes: wide
 ---
 
 # Welcome to my webpage! #
-I am a Peruvian economist and a PhD candidate in Economics at the [University of British Columbia](https://www.ubc.ca/).
+I am a PhD candidate in Economics at the [University of British Columbia](https://www.ubc.ca/).
 
 My current  research  interest is focused  in  the  areas  of  labor, development  and  gender.
 
