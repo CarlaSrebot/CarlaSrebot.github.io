@@ -104,6 +104,7 @@ analytics:
 author:
   name             : "Carla Srebot"
   avatar           : "/assets/images/bio-photo-srebot.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar_classes   : "wide"
   bio              : "Economist"
   location         : "Vancouver, Canada"
   links:
