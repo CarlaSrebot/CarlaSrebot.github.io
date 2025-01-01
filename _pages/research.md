@@ -27,16 +27,19 @@ details > summary::-webkit-details-marker {
 
 ## Selected Work in Progress
 
-* <p>Disempowered Unions, Collective Bargaining, and Wage Inequality<br>
-    With <a href="https://pascuel.github.io/" style="color: black; text-decoration: underline;">Pascuel Plotkin</a>
-  </p>
-
 * <details>
     <summary><a><p>Labor Market Flexibility and Gender Heterogeneity in Labor Allocation</p></a></summary>
     <p align="justify"><b>Abstract.-</b>	Does greater flexibility create job opportunities and improve labor allocation? This paper examines how firms and workers respond to a labor market flexibility shock in a setting characterized by high regulation costs. Focusing on the Brazilian labor market, I leverage linked formal employer-employee data to analyze the impacts of the 2017 Labor Reform, a policy that removed constraints on flexible work schedules. I show that this policy change led to an increase in job opportunities and employment, especially in part-time positions. Notably, women experienced greater employment gains. At the state level, I observe that while the reform did not significantly impact unemployment rates, it contributed to reduce informality, which accounted for 40% of the workforce in 2016. Gender-specific analysis indicates that this effect is primarily driven by women transitioning from informal to formal employment within the private sector in the short run, followed by both women and men in the state-level economy in the medium run. These findings underscore the interaction between labor market flexibility and gender disparities, underscoring the potential of such reforms to reconfigure employment allocation. The case of the Brazilian reform offers a more nuanced perspective when informality is considered.	
     </p>
   </details> 
 
+* <details>
+    <summary><p><a>Disempowered Unions, Collective Bargaining, and Wage Inequality</a><br>
+    With <a href="https://pascuel.github.io/" style="color: black; text-decoration: underline;">Pascuel Plotkin</a>
+    </p>
+    </summary>    <p align="justify"><b>Abstract.-</b>	We study the effects of deunionization–characterized by the weakening of labor unions–on firm compensation, labor inequality, and earning gaps. Specifically, we leverage a reform in Brazil that ended the automatic renewal of collective bargaining agreements (CBAs) upon their expiration, significantly curtailing the bargaining power of unions over wages and job amenities. Using a dataset on the universe of CBAs alongside an administrative linked employer-employee dataset, we estimate the causal effect of deunionization. Our approach compares firms with expired CBAs, where workers are no longer covered by a CBA, to those with active CBAs at the time of the reform’s implementation. We extend our analysis to explore the mechanisms through which deunionization affects wage and amenity distributions, applying textual analysis to the CBAs to explain changes in employee welfare. Additionally, the analysis examines the heterogeneity in the reform’s effects across different industries, occupations, and worker skill levels, aiming to uncover whether the reform widened inequality in earnings and employment amenities.	
+    </p>
+  </details> 
 
 * <details>
     <summary><p><a>Can Property Rights Foster Individualism?</a><br>
