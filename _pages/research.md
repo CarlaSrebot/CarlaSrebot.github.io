@@ -68,15 +68,3 @@ details > summary::-webkit-details-marker {
   With <a href="https://aysps.gsu.edu/profile/alberto-chong/" style="color: black; text-decoration: underline;">Alberto Chong</a> \\
   _International Economics,_
   Vol 163, October 2020. 
-
-
-## Pre-Doctoral Theses
-
-* **Femicide media coverage and violence reporting behavior** \\
-  _Master's thesis, Universidad de San Andrés._
-  July 2021. <a href="https://repositorio.udesa.edu.ar/jspui/bitstream/10908/18510/1/%5bP%5d%5bW%5d%20T.M.%20Eco.%20Srebot%20Roeder%2c%20Carla%20Mar%c3%ada.pdf"><i class="fas fa-fw fa-file-pdf zoom" style="font-size:24px;color:#0099cc" aria-hidden="true"></i></a>
-
-* **Do large oil spills have effects on labor outcomes? The Peruvian case** \\
-  With <a href="https://pe.linkedin.com/in/yulia-valdivia-rivera-30596" style="color: black; text-decoration: underline;">Yulia Valdivia</a> \\
-  _Bachelor's thesis, Universidad del Pacífico._
-  July 2018. <a href="https://repositorio.up.edu.pe/bitstream/handle/11354/3006/DI17.pdf?sequence=1&isAllowed=y"><i class="fas fa-fw fa-file-pdf zoom" style="font-size:24px;color:#0099cc" aria-hidden="true"></i></a>
