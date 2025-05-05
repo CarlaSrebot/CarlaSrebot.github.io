@@ -14,6 +14,8 @@ I am a PhD candidate in Economics at the [University of British Columbia](https:
 
 My current  research  interest is focused  in  the  areas  of  labor, development  and  gender.
 
+You can learn more about my research [here](https://carlasrebot.github.io/research/) and find my CV [here](https://carlasrebot.github.io/cv/).
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
