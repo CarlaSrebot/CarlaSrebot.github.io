@@ -37,17 +37,15 @@ details > summary::-webkit-details-marker {
 
 
 ## Selected Work in Progress
+* Managers and the Cultural Transmission of Gender Norms \\
+  With <a href="https://virginiaminni.github.io/" style="color: black; text-decoration: underline;">Virginia Minni</a>, <a href="https://sites.google.com/view/kieutrangnguyen/home" style="color: black; text-decoration: underline;">Kieu-Trang Nguyen</a>, and <a href="https://sites.google.com/view/sarsons/home" style="color: black; text-decoration: underline;">Heather Sarsons</a> 
 
-* <details>
-    <summary><p><a>Disempowered Unions, Collective Bargaining, and Wage Inequality</a><br>
-    With <a href="https://pascuel.github.io/" style="color: black; text-decoration: underline;">Pascuel Plotkin</a>
-    </p>
-    </summary>    
-  </details> 
+* Disempowered Unions, Collective Bargaining, and Wage Inequality \\
+  With <a href="https://pascuel.github.io/" style="color: black; text-decoration: underline;">Pascuel Plotkin</a> 
 
 * <details>
     <summary><p><a>Can Property Rights Foster Individualism?</a><br>
-    With <a href="https://christian-maruthiah.com/" style="color: black; text-decoration: underline;">Christian Maruthiah</a>
+    With <a href="https://economics.ubc.ca/profile/sara-benetti/" style="color: black; text-decoration: underline;">Sara Benetti</a> and <a href="https://christian-maruthiah.com/" style="color: black; text-decoration: underline;">Christian Maruthiah</a>
     </p>
     </summary>
       <p align="justify"><b>Abstract.-</b> Individualism has been shown to have important economic, social and political consequences. This project examines whether individualism can be fostered by government policy, the degree to which it persists across generations, and its long-run implications for local economic development. We study these questions in the context of an ambitious land allotment programme targeting Native Americans in the early-20th century, using a range of historical and contemporary data sources. At the individual-level, we examine the effects of allotment on naming practices, intermarriage, participation in Native American civil rights associations, and location choice among descendants up to 100 years later. In order to document the long-term political and social consequences of allotment at the reservation-level, we construct new datasets on public goods provision, the occurence of and issues raised in local public meetings, and the content of modern tribal constitutions.	
