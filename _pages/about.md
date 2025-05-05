@@ -10,9 +10,7 @@ classes: wide
 ---
 
 # Welcome to my webpage! #
-I am a PhD candidate in Economics at the [University of British Columbia](https://www.ubc.ca/).
-
-My current  research  interest is focused  in  the  areas  of  labor, development  and  gender.
+I am a PhD candidate in Economics at the [University of British Columbia](https://www.ubc.ca/). My current  research  interest is focused  in  the  areas  of  labor, development  and  gender.
 
 You can learn more about my research [here](https://carlasrebot.github.io/research/) and find my CV [here](https://carlasrebot.github.io/cv/).
 

@@ -37,10 +37,10 @@ details > summary::-webkit-details-marker {
 
 
 ## Selected Work in Progress
-* Managers and the Cultural Transmission of Gender Norms \\
+* **Managers and the Cultural Transmission of Gender Norms**  \\
   With <a href="https://virginiaminni.github.io/" style="color: black; text-decoration: underline;">Virginia Minni</a>, <a href="https://sites.google.com/view/kieutrangnguyen/home" style="color: black; text-decoration: underline;">Kieu-Trang Nguyen</a>, and <a href="https://sites.google.com/view/sarsons/home" style="color: black; text-decoration: underline;">Heather Sarsons</a> 
 
-* Disempowered Unions, Collective Bargaining, and Wage Inequality \\
+* **Disempowered Unions, Collective Bargaining, and Wage Inequality** \\
   With <a href="https://pascuel.github.io/" style="color: black; text-decoration: underline;">Pascuel Plotkin</a> 
 
 * <details>
