@@ -21,19 +21,47 @@ details > summary::-webkit-details-marker {
   display: none;
 }
 
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
 </style>
 </head>
 </html>
 
+<script>
+  function toggleAbstract(id, button) {
+    const abstract = document.getElementById(id);
+    const icon = button.querySelector('.material-icons');
+
+    const isVisible = abstract.style.display === "block";
+    abstract.style.display = isVisible ? "none" : "block";
+    icon.textContent = isVisible ? "add_circle" : "do_not_disturb_on";
+  }
+</script>
+
 
 ## Working papers
-* <details>
-    <summary><p><a>Labor Market Flexibility and Gender Heterogeneity in Labor Allocation</a><br>
+
+<!-- Paper block -->
+<div class="paper-entry" style="margin-bottom: 25px;">
+  <p>
+    <strong>Labor Market Flexibility and Gender Heterogeneity in Labor Allocation</strong><br>
     [Draft available upon request]
-    </p>
-    </summary>    <p align="justify"><b>Abstract.-</b>	Does greater flexibility create job opportunities and improve labor allocation? This paper examines how firms and workers respond to a labor market flexibility shock in a setting characterized by high regulation costs. Focusing on the Brazilian labor market, I leverage linked formal employer-employee data to analyze the impacts of the 2017 Labor Reform, a policy that removed constraints on flexible work schedules. I show that this policy change led to an increase in job opportunities and employment, especially in part-time positions. Notably, women experienced greater employment gains. At the state level, I observe that while the reform did not significantly impact unemployment rates, it contributed to reduce informality, which accounted for 40% of the workforce in 2016. Gender-specific analysis indicates that this effect is primarily driven by women transitioning from informal to formal employment within the private sector in the short run, followed by both women and men in the state-level economy in the medium run. These findings underscore the interaction between labor market flexibility and gender disparities, underscoring the potential of such reforms to reconfigure employment allocation. The case of the Brazilian reform offers a more nuanced perspective when informality is considered.	
-    </p>
-  </details> 
+  </p>
+
+  <!-- Buttons -->
+  <div style="margin-top: 5px; margin-bottom: 5px;">
+    <!-- Abstract Button -->
+    <button onclick="toggleAbstract('abs1', this)" style="padding: 4px 10px; background-color: #444; color: white; border: none; border-radius: 4px; margin-right: 5px; display: inline-flex; align-items: center;">
+      <span class="material-icons" style="margin-right: 5px;">add_circle</span>
+      Abstract
+    </button>
+  </div>
+
+  <!-- Abstract text (initially hidden) -->
+  <div id="abs1" style="display: none; font-style: italic; margin-top: 5px;">
+    <b>Abstract.—</b> Does greater flexibility create job opportunities and improve labor allocation? This paper examines how firms and workers respond to a labor market flexibility shock in a setting characterized by high regulation costs. Focusing on the Brazilian labor market, I leverage linked formal employer-employee data to analyze the impacts of the 2017 Labor Reform, a policy that removed constraints on flexible work schedules. I show that this policy change led to an increase in job opportunities and employment, especially in part-time positions. Notably, women experienced greater employment gains. At the state level, I observe that while the reform did not significantly impact unemployment rates, it contributed to reduce informality, which accounted for 40% of the workforce in 2016. Gender-specific analysis indicates that this effect is primarily driven by women transitioning from informal to formal employment within the private sector in the short run, followed by both women and men in the state-level economy in the medium run. These findings underscore the interaction between labor market flexibility and gender disparities, underscoring the potential of such reforms to reconfigure employment allocation. The case of the Brazilian reform offers a more nuanced perspective when informality is considered.
+  </div>
+</div>
 
 
 ## Selected Work in Progress
