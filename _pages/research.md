@@ -34,7 +34,7 @@ details > summary::-webkit-details-marker {
 
     const isVisible = abstract.style.display === "block";
     abstract.style.display = isVisible ? "none" : "block";
-    icon.textContent = isVisible ? "add_circle" : "do_not_disturb_on";
+    icon.textContent = isVisible ? "Abstract" : "Abstract";
   }
 </script>
 
