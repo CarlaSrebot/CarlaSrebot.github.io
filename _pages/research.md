@@ -9,61 +9,72 @@ classes: wide
 ---
 
 <head>
-  <!-- Load Material Icons from Google Fonts -->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-
   <style>
-    /* Optional: global reset or shared styles */
-    
-    .material-icons {
-      vertical-align: middle;
+    body {
+      font-family: Arial, sans-serif;
     }
 
     .paper-entry {
       margin-bottom: 25px;
     }
 
-    .abstract-toggle,
-    .pdf-link,
-    .pub-link {
-      padding: 0;
+    .button-group {
+      display: flex;
+      gap: 10px;
+      margin: 5px 0 10px 0;
+    }
+
+    .link-button {
       background: none;
-      color: #444;
       border: none;
+      padding: 0;
       font-size: 14px;
-      margin-right: 10px;
       display: inline-flex;
       align-items: center;
       cursor: pointer;
       text-decoration: none;
+      color: #1a0dab; /* hyperlink blue */
     }
 
-    .material-icons {
+    .link-button:hover {
+      text-decoration: underline;
+    }
+
+    .blue-icon {
+      color: #1a0dab;
       font-size: 18px;
-      margin-right: 5px;
+      margin-right: 4px;
     }
 
-      .blue-button {
-    padding: 6px 12px;
-    background-color: #007BFF;
-    color: white;
-    border: none;
-    border-radius: 4px;
-    margin-right: 10px;
-    display: inline-flex;
-    align-items: center;
-    cursor: pointer;
-    text-decoration: none;
-    font-size: 14px;
-  }
+    .abstract-text {
+      margin-top: 5px;
+      margin-left: 24px;
+      max-width: 800px;
+      text-align: justify;
+    }
 
-  .blue-button .material-icons {
-    margin-right: 5px;
-    font-size: 18px;
-  }
+    summary {
+      list-style: none;
+    }
+
+    summary::-webkit-details-marker {
+      display: none;
+    }
+
+    details[open] summary .material-icon--show {
+      display: none;
+    }
+
+    details:not([open]) summary .material-icon--hide {
+      display: none;
+    }
+
+    .material-icon {
+      font-family: 'Material Icons';
+    }
   </style>
 </head>
-
 
 <script>
   function toggleAbstract(id, button) {
@@ -79,10 +90,8 @@ classes: wide
 ## Working papers
 
 <div class="paper-entry">
-  <p>
-    <strong>Labor Market Flexibility and Gender Heterogeneity in Labor Allocation</strong><br>
-    [Draft available upon request]
-  </p>
+  <p><b>Labor Market Flexibility and Gender Heterogeneity in Labor Allocation</b><br>
+    [Draft available upon request]</p>
 
   <div>
     <button onclick="toggleAbstract('abs1', this)" class="blue-button">
