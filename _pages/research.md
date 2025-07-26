@@ -42,21 +42,39 @@ classes: wide
       font-size: 18px;
       margin-right: 5px;
     }
+
+      .blue-button {
+    padding: 6px 12px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    margin-right: 10px;
+    display: inline-flex;
+    align-items: center;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 14px;
+  }
+
+  .blue-button .material-icons {
+    margin-right: 5px;
+    font-size: 18px;
+  }
   </style>
 </head>
 
 
 <script>
   function toggleAbstract(id, button) {
-    const abstract = document.getElementById(id);
+    const abs = document.getElementById(id);
     const icon = button.querySelector('.material-icons');
 
-    const isVisible = abstract.style.display === "block";
-    abstract.style.display = isVisible ? "none" : "block";
+    const isVisible = abs.style.display === "block";
+    abs.style.display = isVisible ? "none" : "block";
     icon.textContent = isVisible ? "add_circle" : "do_not_disturb_on";
   }
 </script>
-
 
 ## Working papers
 
@@ -67,14 +85,14 @@ classes: wide
   </p>
 
   <div>
-    <button onclick="toggleAbstract('abs1', this)" class="abstract-toggle">
+    <button onclick="toggleAbstract('abs1', this)" class="blue-button">
       <span class="material-icons">add_circle</span>
       Abstract
     </button>
   </div>
 
   <div id="abs1" style="display: none; font-style: italic; margin-top: 5px;">
-    <b>Abstract.—</b> Does greater flexibility create job opportunities and improve labor allocation? This paper examines how firms and workers respond to a labor market flexibility shock in a setting characterized by high regulation costs. Focusing on the Brazilian labor market, I leverage linked formal employer-employee data to analyze the impacts of the 2017 Labor Reform, a policy that removed constraints on flexible work schedules. I show that this policy change led to an increase in job opportunities and employment, especially in part-time positions. Notably, women experienced greater employment gains. At the state level, I observe that while the reform did not significantly impact unemployment rates, it contributed to reduce informality, which accounted for 40% of the workforce in 2016. Gender-specific analysis indicates that this effect is primarily driven by women transitioning from informal to formal employment within the private sector in the short run, followed by both women and men in the state-level economy in the medium run. These findings underscore the interaction between labor market flexibility and gender disparities, underscoring the potential of such reforms to reconfigure employment allocation. The case of the Brazilian reform offers a more nuanced perspective when informality is considered.
+    Does greater flexibility create job opportunities and improve labor allocation? This paper examines how firms and workers respond to a labor market flexibility shock in a setting characterized by high regulation costs. Focusing on the Brazilian labor market, I leverage linked formal employer-employee data to analyze the impacts of the 2017 Labor Reform, a policy that removed constraints on flexible work schedules. I show that this policy change led to an increase in job opportunities and employment, especially in part-time positions. Notably, women experienced greater employment gains. At the state level, I observe that while the reform did not significantly impact unemployment rates, it contributed to reduce informality, which accounted for 40% of the workforce in 2016. Gender-specific analysis indicates that this effect is primarily driven by women transitioning from informal to formal employment within the private sector in the short run, followed by both women and men in the state-level economy in the medium run. These findings underscore the interaction between labor market flexibility and gender disparities, underscoring the potential of such reforms to reconfigure employment allocation. The case of the Brazilian reform offers a more nuanced perspective when informality is considered.
   </div>
 </div>
 
