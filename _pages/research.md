@@ -28,6 +28,15 @@ details > summary::-webkit-details-marker {
 
 ## Working papers
 * <details>
+    <summary><p><a>Managers and the Cultural Transmission of Gender Norms</a><br>
+    With <a href="https://virginiaminni.github.io/" style="color: black; text-decoration: underline;">Virginia Minni</a>, <a href="https://sites.google.com/view/kieutrangnguyen/home" style="color: black; text-decoration: underline;">Kieu-Trang Nguyen</a>, and <a href="https://sites.google.com/view/sarsons/home" style="color: black; text-decoration: underline;">Heather Sarsons</a> 
+    </p>
+    </summary>
+      <p align="justify"><b>Abstract.-</b> This paper examines the influence of managers from countries with different gender norms on workplace culture and gender disparities within organizations. Using data from a multinational firm operating in over 100 countries, we exploit crosscountry manager rotations that are orthogonal to workers to estimate the impact of male managers’ gender norms on the work outcomes of male and female workers within the same team. Managers from countries with one standard deviation more progressive gender attitudes narrow the gender pay gap by 5 percentage points (18%), primarily by promoting women at higher rates. The effects last beyond the manager’s rotation and are concentrated in countries with more conservative gender attitudes. Moreover, local managers in the destination office change their own attitudes, as evidenced by those managers in turn being more gender-equal with their subordinates. Our evidence points to individual managers as critical in shaping corporate culture.
+      </p>
+  </details> 
+
+* <details>
     <summary><p><a>Labor Market Flexibility and Gender Heterogeneity in Labor Allocation</a><br>
     [Draft available upon request]
     </p>
@@ -37,9 +46,6 @@ details > summary::-webkit-details-marker {
 
 
 ## Selected Work in Progress
-* **Managers and the Cultural Transmission of Gender Norms**  \\
-  With <a href="https://virginiaminni.github.io/" style="color: black; text-decoration: underline;">Virginia Minni</a>, <a href="https://sites.google.com/view/kieutrangnguyen/home" style="color: black; text-decoration: underline;">Kieu-Trang Nguyen</a>, and <a href="https://sites.google.com/view/sarsons/home" style="color: black; text-decoration: underline;">Heather Sarsons</a> 
-
 * **Disempowered Unions, Collective Bargaining, and Wage Inequality** \\
   With <a href="https://pascuel.github.io/" style="color: black; text-decoration: underline;">Pascuel Plotkin</a> 
 
@@ -67,4 +73,4 @@ details > summary::-webkit-details-marker {
 * [Investment Confidence and Regional Trade Agreements with the United States](https://doi.org/10.1016/j.inteco.2020.05.001) \\
   With <a href="https://aysps.gsu.edu/profile/alberto-chong/" style="color: black; text-decoration: underline;">Alberto Chong</a> \\
   _International Economics,_
-  Vol 163, October 2020. \\
+  Vol 163, October 2020. 
