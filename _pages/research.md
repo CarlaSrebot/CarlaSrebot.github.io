@@ -91,18 +91,19 @@ classes: wide
 
 <div class="paper-entry">
   <p><b>Labor Market Flexibility and Gender Heterogeneity in Labor Allocation</b><br>
-    [Draft available upon request]</p>
+  [Draft available upon request]</p>
 
-  <div>
-    <button onclick="toggleAbstract('abs1', this)" class="blue-button">
-      <span class="material-icons">add_circle</span>
-      Abstract
-    </button>
-  </div>
-
-  <div id="abs1" style="display: none; font-style: italic; margin-top: 5px;">
-    Does greater flexibility create job opportunities and improve labor allocation? This paper examines how firms and workers respond to a labor market flexibility shock in a setting characterized by high regulation costs. Focusing on the Brazilian labor market, I leverage linked formal employer-employee data to analyze the impacts of the 2017 Labor Reform, a policy that removed constraints on flexible work schedules. I show that this policy change led to an increase in job opportunities and employment, especially in part-time positions. Notably, women experienced greater employment gains. At the state level, I observe that while the reform did not significantly impact unemployment rates, it contributed to reduce informality, which accounted for 40% of the workforce in 2016. Gender-specific analysis indicates that this effect is primarily driven by women transitioning from informal to formal employment within the private sector in the short run, followed by both women and men in the state-level economy in the medium run. These findings underscore the interaction between labor market flexibility and gender disparities, underscoring the potential of such reforms to reconfigure employment allocation. The case of the Brazilian reform offers a more nuanced perspective when informality is considered.
-  </div>
+  <!-- Abstract Button Only -->
+  <details>
+    <summary class="link-button">
+      <span class="material-icon blue-icon material-icon--show">add_circle</span>
+      <span class="material-icon blue-icon material-icon--hide">do_not_disturb_on</span>
+      <span>Abstract</span>
+    </summary>
+    <div class="abstract-text">
+      <b>Abstract.</b> Does greater flexibility create job opportunities and improve labor allocation? This paper examines how firms and workers respond to a labor market flexibility shock in a setting characterized by high regulation costs. Focusing on the Brazilian labor market, I leverage linked formal employer-employee data to analyze the impacts of the 2017 Labor Reform, a policy that removed constraints on flexible work schedules. I show that this policy change led to an increase in job opportunities and employment, especially in part-time positions. Notably, women experienced greater employment gains. At the state level, I observe that while the reform did not significantly impact unemployment rates, it contributed to reduce informality, which accounted for 40% of the workforce in 2016. Gender-specific analysis indicates that this effect is primarily driven by women transitioning from informal to formal employment within the private sector in the short run, followed by both women and men in the state-level economy in the medium run. These findings underscore the interaction between labor market flexibility and gender disparities, underscoring the potential of such reforms to reconfigure employment allocation. The case of the Brazilian reform offers a more nuanced perspective when informality is considered.
+    </div>
+  </details>
 </div>
 
 
