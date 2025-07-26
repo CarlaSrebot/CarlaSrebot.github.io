@@ -8,103 +8,32 @@ header:
 classes: wide
 ---
 
+<html>
 <head>
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-    }
+<style>
+details> summary {
+  list-style-type: none; /* This removes the default arrow */
+  cursor: pointer;
+  position: relative;
+  margin-left: 0px;
+}
+details > summary::-webkit-details-marker {
+  display: none;
+}
 
-    .paper-entry {
-      margin-bottom: 25px;
-    }
-
-    .button-group {
-      display: flex;
-      gap: 10px;
-      margin: 5px 0 10px 0;
-    }
-
-    .link-button {
-      background: none;
-      border: none;
-      padding: 0;
-      font-size: 14px;
-      display: inline-flex;
-      align-items: center;
-      cursor: pointer;
-      text-decoration: none;
-      color: #1a0dab; /* hyperlink blue */
-    }
-
-    .link-button:hover {
-      text-decoration: underline;
-    }
-
-    .blue-icon {
-      color: #1a0dab;
-      font-size: 18px;
-      margin-right: 4px;
-    }
-
-    .abstract-text {
-      margin-top: 5px;
-      margin-left: 24px;
-      max-width: 800px;
-      text-align: justify;
-    }
-
-    summary {
-      list-style: none;
-    }
-
-    summary::-webkit-details-marker {
-      display: none;
-    }
-
-    details[open] summary .material-icon--show {
-      display: none;
-    }
-
-    details:not([open]) summary .material-icon--hide {
-      display: none;
-    }
-
-    .material-icon {
-      font-family: 'Material Icons';
-    }
-  </style>
+</style>
 </head>
+</html>
 
-<script>
-  function toggleAbstract(id, button) {
-    const abs = document.getElementById(id);
-    const icon = button.querySelector('.material-icons');
-
-    const isVisible = abs.style.display === "block";
-    abs.style.display = isVisible ? "none" : "block";
-    icon.textContent = isVisible ? "add_circle" : "do_not_disturb_on";
-  }
-</script>
 
 ## Working papers
-
-<div class="paper-entry">
-  <p><b>Labor Market Flexibility and Gender Heterogeneity in Labor Allocation</b><br>
-  [Draft available upon request]</p>
-
-  <!-- Abstract Button Only -->
-  <details>
-    <summary class="link-button">
-      <span class="material-icon blue-icon material-icon--show">add_circle</span>
-      <span class="material-icon blue-icon material-icon--hide">do_not_disturb_on</span>
-      <span>Abstract</span>
-    </summary>
-    <div class="abstract-text">
-      <b>Abstract.</b> Does greater flexibility create job opportunities and improve labor allocation? This paper examines how firms and workers respond to a labor market flexibility shock in a setting characterized by high regulation costs. Focusing on the Brazilian labor market, I leverage linked formal employer-employee data to analyze the impacts of the 2017 Labor Reform, a policy that removed constraints on flexible work schedules. I show that this policy change led to an increase in job opportunities and employment, especially in part-time positions. Notably, women experienced greater employment gains. At the state level, I observe that while the reform did not significantly impact unemployment rates, it contributed to reduce informality, which accounted for 40% of the workforce in 2016. Gender-specific analysis indicates that this effect is primarily driven by women transitioning from informal to formal employment within the private sector in the short run, followed by both women and men in the state-level economy in the medium run. These findings underscore the interaction between labor market flexibility and gender disparities, underscoring the potential of such reforms to reconfigure employment allocation. The case of the Brazilian reform offers a more nuanced perspective when informality is considered.
-    </div>
-  </details>
-</div>
+* <details>
+    <summary><p><a>Labor Market Flexibility and Gender Heterogeneity in Labor Allocation</a><br>
+    [Draft available upon request]
+    </p>
+    </summary>    <p align="justify"><b>Abstract.-</b>	Does greater flexibility create job opportunities and improve labor allocation? This paper examines how firms and workers respond to a labor market flexibility shock in a setting characterized by high regulation costs. Focusing on the Brazilian labor market, I leverage linked formal employer-employee data to analyze the impacts of the 2017 Labor Reform, a policy that removed constraints on flexible work schedules. I show that this policy change led to an increase in job opportunities and employment, especially in part-time positions. Notably, women experienced greater employment gains. At the state level, I observe that while the reform did not significantly impact unemployment rates, it contributed to reduce informality, which accounted for 40% of the workforce in 2016. Gender-specific analysis indicates that this effect is primarily driven by women transitioning from informal to formal employment within the private sector in the short run, followed by both women and men in the state-level economy in the medium run. These findings underscore the interaction between labor market flexibility and gender disparities, underscoring the potential of such reforms to reconfigure employment allocation. The case of the Brazilian reform offers a more nuanced perspective when informality is considered.	
+    </p>
+  </details> 
 
 
 ## Selected Work in Progress
