@@ -68,7 +68,3 @@ details > summary::-webkit-details-marker {
   With <a href="https://aysps.gsu.edu/profile/alberto-chong/" style="color: black; text-decoration: underline;">Alberto Chong</a> \\
   _International Economics,_
   Vol 163, October 2020. \\
-  <a href="https://repositorio.up.edu.pe/bitstream/handle/11354/3006/DI17.pdf?sequence=1&isAllowed=y" target="_blank" style="text-decoration: none; color: #0099cc;">
-  <i class="fas fa-fw fa-file-pdf zoom" style="font-size:24px;" aria-hidden="true"></i>
-  <span style="font-size:16px; vertical-align: middle;">PDF</span>
-  </a>
