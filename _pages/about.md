@@ -15,7 +15,7 @@ classes: wide
 
   <!-- Left: Photo -->
   <div style="flex: 1; min-width: 250px;">
-    <img src="/assets/images/bio-photo-srebot.png" alt="Carla Srebot" style="width: 100%; max-width: 350px; height: auto; border-radius: 8px;">
+    <img src="/assets/images/bio-photo-srebot.png" alt="Carla Srebot" style="width: 100%; max-width: 450px; height: auto; border-radius: 8px;">
   </div>
 
   <!-- Right: Intro -->
@@ -25,7 +25,8 @@ classes: wide
   <p>
     I am a PhD candidate in Economics at the
     <a href="https://www.ubc.ca/" target="_blank">University of British Columbia</a>.<br>
-    
+  </p>   
+  <p> 
     My current research interest is focused in the areas of labor, development, and gender.
   </p>
 
