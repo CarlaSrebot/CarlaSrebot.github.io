@@ -15,7 +15,8 @@ classes: wide
 
   <!-- Left: Photo -->
   <div style="flex: 1; min-width: 250px;">
-    <img src="/assets/images/bio-photo-srebot.png" alt="Carla Srebot" style="width: 100%; max-width: 450px; height: auto; border-radius: 8px;">
+    <img src="/assets/images/bio-photo-srebot.png" alt="Carla Srebot" 
+        style="width: 100%; max-width: 1280px; max-height: 1280px; height: auto; border-radius: 8px;">
   </div>
 
   <!-- Right: Intro -->
@@ -45,7 +46,7 @@ classes: wide
 </div>
 
 <!-- Interests & Education Section -->
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px; margin-top: 5px; padding-top: 0;">
 
   <div style="flex: 1; min-width: 200px;">
     <h2>Interests</h2>
