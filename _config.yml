@@ -258,8 +258,9 @@ compress_html:
     envs: development
 
 
-# Defaults:
+# Defaults
 defaults:
+  # _posts
   - scope:
       path: ""
       type: posts
@@ -269,10 +270,10 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: 
+      share: # true
       related: false
-      custom_css: "custom.css"
 
+  # _pages
   - scope:
       path: ""
       type: pages
@@ -280,4 +281,3 @@ defaults:
       layout: single
       classes: wide
       author_profile: true
-      custom_css: "custom.css"
