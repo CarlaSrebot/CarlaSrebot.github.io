@@ -46,7 +46,7 @@ classes: wide
 </div>
 
 <!-- Interests & Education Section -->
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px; margin-top: 5px; padding-top: 0;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
 
   <div style="flex: 1; min-width: 200px;">
     <h2>Interests</h2>
