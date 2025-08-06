@@ -24,7 +24,7 @@ classes: wide
     <h1>Welcome to my webpage!</h1>
 
   <p>
-    I am a PhD candidate in Economics at the <a href="https://economics.ubc.ca">Vancouver School of Economics</a>, University of British Columbia. My research interests lie at the intersection of labor, development, and gender economics. I am also a 2025–2027 PhD Fellow at the <a href="https://stonecentre.economics.ubc.ca/">Stone Centre on Wealth and Income Inequality at UBC</a>.  
+    I am a PhD candidate in Economics at the <a href="https://economics.ubc.ca">Vancouver School of Economics</a>, University of British Columbia. My research interests lie at the intersection of labor, development, and gender economics. I am also a 2025–2027 PhD Fellow at the <a href="https://stonecentre.economics.ubc.ca/">Stone Centre on Wealth and Income Inequality</a> at UBC.  
   </p>
 
   <p>
