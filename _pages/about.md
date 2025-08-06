@@ -25,23 +25,23 @@ classes: wide
   <div style="flex: 2; min-width: 300px;">
     <h2>Welcome to my webpage!</h2>
 
-    <p>
+  <p>
       I am a PhD candidate in Economics at the
       <a href="https://www.ubc.ca/" target="_blank">University of British Columbia</a>.<br>
       
       My current research interest is focused in the areas of labor, development, and gender.
-    </p>
+  </p>
 
-    <p>
+  <p>
       You can learn more about my research
       <a href="https://carlasrebot.github.io/research/" target="_blank">here</a>
       and find my CV
       <a href="https://carlasrebot.github.io/cv/" target="_blank">here</a>.
-    </p>
+  </p>
 
-    <p>
+  <p>
       <strong>Get in touch at <a href="mailto:csrebot@student.ubc.ca">csrebot@student.ubc.ca</a></strong>
-    </p>
+  </p>
   </div>
 
 </div>
