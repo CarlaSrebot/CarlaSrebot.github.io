@@ -24,13 +24,9 @@ classes: wide
     <h1>Welcome to my webpage!</h1>
 
   <p>
-    I am a PhD candidate in Economics at the
-    <a href="https://www.ubc.ca/" target="_blank">University of British Columbia</a>.<br>
-  </p>   
-  <p> 
-    My current research interest is focused in the areas of labor, development, and gender.
+    I am a PhD candidate in Economics the <a href="https://economics.ubc.ca">Vancouver School of Economics</a>, University of British Columbia. My current research interest is focused in the areas of labor, development, and gender. I am a 2025-2027 PhD Fellow at the <a href="https://stonecentre.economics.ubc.ca/">Stone Centre on Wealth and Income Inequality at UBC</a>.
   </p>
-
+  
   <p>
     You can learn more about my research
     <a href="https://carlasrebot.github.io/research/" target="_blank">here</a>
