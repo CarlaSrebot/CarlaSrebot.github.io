@@ -11,35 +11,43 @@ header:
 classes: wide
 ---
 
+<!-- Name as Title (navy blue) -->
+<h1 style="font-size: 2.5rem; margin-bottom: 0.5rem; color: navy;"><strong>Carla Srebot</strong></h1>
+
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 40px; margin-bottom: 2rem;">
 
   <!-- Left: Photo -->
   <div style="flex: 1; min-width: 250px;">
-    <img src="/assets/images/bio-photo-srebot.png" alt="Carla Srebot" style="width: 100%; max-width: 350px; height: auto; border-radius: 8px;">
+    <img src="/assets/images/bio-photo-srebot.png" alt="Carla Srebot" style="width: 100%; max-width: 420px; height: auto; border-radius: 8px;">
   </div>
 
   <!-- Right: Intro -->
   <div style="flex: 2; min-width: 300px;">
-    <h1>Welcome to my webpage!</h1>
+    <h2>Welcome to my webpage!</h2>
 
     <p>
-    I am a PhD candidate in Economics at the
-    <a href="https://www.ubc.ca/" target="_blank">University of British Columbia</a>.<br>
-    My current research interest is focused in the areas of labor, development, and gender.
+      I am a PhD candidate in Economics at the
+      <a href="https://www.ubc.ca/" target="_blank">University of British Columbia</a>.<br>
+      
+      My current research interest is focused in the areas of labor, development, and gender.
     </p>
 
     <p>
-    You can learn more about my research
-    <a href="https://carlasrebot.github.io/research/" target="_blank">here</a>
-    and find my CV
-    <a href="https://carlasrebot.github.io/cv/" target="_blank">here</a>.
+      You can learn more about my research
+      <a href="https://carlasrebot.github.io/research/" target="_blank">here</a>
+      and find my CV
+      <a href="https://carlasrebot.github.io/cv/" target="_blank">here</a>.
+    </p>
+
+    <p>
+      <strong>Get in touch at <a href="mailto:csrebot@student.ubc.ca">csrebot@student.ubc.ca</a></strong>
     </p>
   </div>
 
 </div>
 
 <!-- Interests & Education Section -->
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
 
   <div style="flex: 1; min-width: 200px;">
     <h2>Interests</h2>
