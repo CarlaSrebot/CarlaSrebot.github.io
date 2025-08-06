@@ -35,6 +35,10 @@ classes: wide
     and find my CV
     <a href="https://carlasrebot.github.io/cv/" target="_blank">here</a>.
   </p>
+
+  <p>
+    Get in touch at <a href="mailto:csrebot@student.ubc.ca">csrebot@student.ubc.ca</a>
+  </p>
   </div>
 
 </div>
