@@ -14,7 +14,7 @@ classes: wide
     line-height: 1.5;
   }
   .intro-text {
-    font-size: 0.85rem;
+    font-size: 0.9rem;
   }
 </style>
 
@@ -76,7 +76,7 @@ classes: wide
   <h2 style="font-size: 1.1rem;">Education</h2>
   <ul style="list-style: none; padding-left: 0;">
     <li style="margin-bottom: 1em;">
-      <div style="display: flex; align-items: center; font-size: 0.9em">
+      <div style="display: flex; align-items: center; font-size: 0.9rem">
         <i class="fas fa-graduation-cap" style="margin-right: 8px;"></i>
         <span>PhD in Economics, 2021 – Present</span>
       </div>
@@ -84,7 +84,7 @@ classes: wide
     </li>
 
   <li style="margin-bottom: 1em;">
-    <div style="display: flex; align-items: center; font-size: 0.9em">
+    <div style="display: flex; align-items: center; font-size: 0.9rem">
       <i class="fas fa-graduation-cap" style="margin-right: 8px;"></i>
       <span>M.A. in Economics, 2019</span>
     </div>
@@ -92,7 +92,7 @@ classes: wide
   </li>
 
   <li>
-    <div style="display: flex; align-items: center; font-size: 0.9em">
+    <div style="display: flex; align-items: center; font-size: 0.9rem">
       <i class="fas fa-graduation-cap" style="margin-right: 8px;"></i>
       <span>B.A. in Economics, 2018</span>
     </div>
