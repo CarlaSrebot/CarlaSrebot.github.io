@@ -15,7 +15,7 @@ classes: wide
 
   <!-- Left: Photo -->
   <div style="flex: 1; min-width: 250px;">
-    <img src="/assets/images/UBC_20220420_PJ_7164.jpg" alt="Carla Srebot" 
+    <img src="/assets/images/bio-csrebot.jpg" alt="Carla Srebot" 
         style="width: 100%; max-width: 1280px; max-height: 1280px; height: auto; border-radius: 8px;">
   </div>
 
@@ -53,22 +53,33 @@ classes: wide
     </ul>
   </div>
 
-  <div style="flex: 1; min-width: 200px;">
-    <h2>Education</h2>
-    <ul style="list-style: none; padding-left: 0;">
-      <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5em;">
-        <span><i class="fas fa-graduation-cap"></i> PhD in Economics, 2021 – Present</span>
-        <span style="font-size: 0.85em; text-align: right;">University of British Columbia</span>
-      </li>
-      <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5em;">
-        <span><i class="fas fa-graduation-cap"></i> M.A. in Economics, 2019</span>
-        <span style="font-size: 0.85em; text-align: right;">Universidad de San Andrés</span>
-      </li>
-      <li style="display: flex; justify-content: space-between; align-items: center;">
-        <span><i class="fas fa-graduation-cap"></i> B.A. in Economics, 2018</span>
-        <span style="font-size: 0.85em; text-align: right;">Universidad del Pacífico</span>
-      </li>
-    </ul>
-  </div>
+<div style="flex: 1; min-width: 200px;">
+  <h2>Education</h2>
+  <ul style="list-style: none; padding-left: 0;">
+    <li style="margin-bottom: 1em;">
+      <div style="display: flex; align-items: center;">
+        <i class="fas fa-graduation-cap" style="margin-right: 8px;"></i>
+        <span>PhD in Economics, 2021 – Present</span>
+      </div>
+      <div style="padding-left: 26px; font-size: 0.85em;">University of British Columbia</div>
+    </li>
+
+  <li style="margin-bottom: 1em;">
+      <div style="display: flex; align-items: center;">
+        <i class="fas fa-graduation-cap" style="margin-right: 8px;"></i>
+        <span>M.A. in Economics, 2019</span>
+      </div>
+      <div style="padding-left: 26px; font-size: 0.85em;">Universidad de San Andrés</div>
+  </li>
+
+   <li>
+      <div style="display: flex; align-items: center;">
+        <i class="fas fa-graduation-cap" style="margin-right: 8px;"></i>
+        <span>B.A. in Economics, 2018</span>
+      </div>
+      <div style="padding-left: 26px; font-size: 0.85em;">Universidad del Pacífico</div>
+    </li>
+  </ul>
+</div>
 
 </div>
