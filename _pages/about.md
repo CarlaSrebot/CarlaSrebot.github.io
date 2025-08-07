@@ -8,9 +8,16 @@ sidebar:
 classes: wide
 ---
 
+<style>
+  p {
+    font-size: 0.9rem;
+    line-height: 1.5;
+  }
+</style>
+
 <!-- Centered Name at the Top -->
 <div style="text-align: center; margin-top: 2rem; margin-bottom: 3rem;">
-  <h1 style="font-size: 2em; color: #356196ff; margin: 0;">Carla Srebot</h1>
+  <h1 style="font-size: 2.2em; color: #356196ff; margin: 0;">Carla Srebot</h1>
 </div>
 
 <!-- Main Content Section -->

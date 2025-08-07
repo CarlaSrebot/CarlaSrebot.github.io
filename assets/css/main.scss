@@ -4,12 +4,11 @@
 
 @charset "utf-8";
 
-// Import Minimal Mistakes skin and main styles
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
-@import "minimal-mistakes";
+// Load the theme skin and core styles
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
 
 // === CUSTOM FONT OVERRIDES ===
-
 // Body text, main content, sidebar text, nav text
 body, .sidebar, nav, aside {
   font-family: 'Lora', serif;
@@ -23,16 +22,4 @@ h1, h2, h3, h4, h5, h6, nav a, .sidebar h2, .sidebar h3 {
 // Sidebar links inherit body font for readability
 .sidebar a {
   font-family: 'Lora', serif;
-}
-
-// Optional: style links site-wide to match font and color
-a {
-  font-family: 'Lora', serif;
-  color: #16519a;
-  text-decoration: none;
-}
-
-a:hover,
-a:focus {
-  text-decoration: underline;
 }
