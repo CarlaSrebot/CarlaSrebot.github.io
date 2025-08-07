@@ -5,26 +5,33 @@ title: " "
 author_profile: false
 sidebar:
   nav: null
-header:
-  overlay_image: /assets/images/P001.jpg
-  overlay_filter: 0.1
 classes: wide
 ---
 
+<!-- Centered Name at the Top -->
+<div style="text-align: center; margin-top: 2rem; margin-bottom: 3rem;">
+  <h1 style="font-size: 3em; color: #0c3c77ff; margin: 0;">Carla Srebot</h1>
+</div>
+
+<!-- Main Content Section -->
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 40px; margin-bottom: 2rem;">
 
   <!-- Left: Photo -->
   <div style="flex: 1; min-width: 250px;">
     <img src="/assets/images/bio-csrebot.jpg" alt="Carla Srebot" 
-        style="width: 100%; max-width: 1280px; max-height: 1280px; height: auto; border-radius: 8px;">
+         style="width: 100%; max-width: 1280px; max-height: 1280px; height: auto; border-radius: 8px;">
   </div>
 
   <!-- Right: Intro -->
   <div style="flex: 2; min-width: 300px;">
-    <h1>Welcome to my webpage!</h1>
+    <h2>Welcome to my webpage!</h2>
 
   <p>
-    I am a PhD candidate in Economics at the <a href="https://economics.ubc.ca">Vancouver School of Economics</a>, University of British Columbia. My research interests lie at the intersection of labor, development, and gender economics. I am also a 2025–2027 PhD Fellow at the <a href="https://stonecentre.economics.ubc.ca/">Stone Centre on Wealth and Income Inequality</a> at UBC.  
+    I am a PhD candidate in Economics at the 
+    <a href="https://economics.ubc.ca">Vancouver School of Economics</a>, 
+    University of British Columbia. My research interests lie at the intersection of labor, development, and gender economics. 
+    I am also a 2025–2027 PhD Fellow at the 
+    <a href="https://stonecentre.economics.ubc.ca/">Stone Centre on Wealth and Income Inequality</a> at UBC.  
   </p>
 
   <p>
@@ -38,8 +45,8 @@ classes: wide
     Get in touch at <a href="mailto:csrebot@student.ubc.ca">csrebot@student.ubc.ca</a>
   </p>
   </div>
-
 </div>
+
 
 <!-- Interests & Education Section -->
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
