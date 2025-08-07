@@ -19,7 +19,7 @@ classes: wide
 </style>
 
 <!-- Outer Container: Center the content -->
-<div style="max-width: 900px; margin: 0 auto; padding: 0 1rem;">
+<div style="max-width: 800px; margin: 0 auto; padding: 0 1rem;">
 
   <!-- Centered Name at the Top -->
   <div style="text-align: center; margin-top: 2rem; margin-bottom: 2rem;">
