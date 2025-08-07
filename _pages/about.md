@@ -56,9 +56,18 @@ classes: wide
   <div style="flex: 1; min-width: 200px;">
     <h2>Education</h2>
     <ul style="list-style: none; padding-left: 0;">
-      <li><i class="fas fa-graduation-cap"></i> PhD in Economics, 2021 – Present<br><span style="font-size: 0.85em;">University of British Columbia</span></li>
-      <li><i class="fas fa-graduation-cap"></i> M.A. in Economics, 2019<br><span style="font-size: 0.85em;">Universidad de San Andrés</span></li>
-      <li><i class="fas fa-graduation-cap"></i> B.A. in Economics, 2018<br><span style="font-size: 0.85em;">Universidad del Pacífico</span></li>
+      <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5em;">
+        <span><i class="fas fa-graduation-cap"></i> PhD in Economics, 2021 – Present</span>
+        <span style="font-size: 0.85em; text-align: right;">University of British Columbia</span>
+      </li>
+      <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5em;">
+        <span><i class="fas fa-graduation-cap"></i> M.A. in Economics, 2019</span>
+        <span style="font-size: 0.85em; text-align: right;">Universidad de San Andrés</span>
+      </li>
+      <li style="display: flex; justify-content: space-between; align-items: center;">
+        <span><i class="fas fa-graduation-cap"></i> B.A. in Economics, 2018</span>
+        <span style="font-size: 0.85em; text-align: right;">Universidad del Pacífico</span>
+      </li>
     </ul>
   </div>
 
