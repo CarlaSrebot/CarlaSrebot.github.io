@@ -10,7 +10,7 @@ classes: wide
 
 <!-- Centered Name at the Top -->
 <div style="text-align: center; margin-top: 2rem; margin-bottom: 3rem;">
-  <h1 style="font-size: 3em; color: #0c3c77ff; margin: 0;">Carla Srebot</h1>
+  <h1 style="font-size: 2.5em; color: #16519aff; margin: 0;">Carla Srebot</h1>
 </div>
 
 <!-- Main Content Section -->
@@ -24,14 +24,16 @@ classes: wide
 
   <!-- Right: Intro -->
   <div style="flex: 2; min-width: 300px;">
-    <h2>Welcome to my webpage!</h2>
+
+  <!-- Remove margin from h2 to align with top of image -->
+  <h2 style="margin-top: 0;">Welcome to my webpage!</h2>
 
   <p>
-    I am a PhD candidate in Economics at the 
-    <a href="https://economics.ubc.ca">Vancouver School of Economics</a>, 
-    University of British Columbia. My research interests lie at the intersection of labor, development, and gender economics. 
-    I am also a 2025–2027 PhD Fellow at the 
-    <a href="https://stonecentre.economics.ubc.ca/">Stone Centre on Wealth and Income Inequality</a> at UBC.  
+      I am a PhD candidate in Economics at the 
+      <a href="https://economics.ubc.ca">Vancouver School of Economics</a>, 
+      University of British Columbia. My research interests lie at the intersection of labor, development, and gender economics. 
+      I am also a 2025–2027 PhD Fellow at the 
+      <a href="https://stonecentre.economics.ubc.ca/">Stone Centre on Wealth and Income Inequality</a> at UBC.  
   </p>
 
   <p>
