@@ -76,27 +76,27 @@ classes: wide
   <h2 style="font-size: 1.1rem;">Education</h2>
   <ul style="list-style: none; padding-left: 0;">
     <li style="margin-bottom: 1em;">
-      <div style="display: flex; align-items: center;">
+      <div style="display: flex; align-items: center; font-size: 0.9em">
         <i class="fas fa-graduation-cap" style="margin-right: 8px;"></i>
         <span>PhD in Economics, 2021 – Present</span>
       </div>
-      <div style="padding-left: 26px; font-size: 0.85em;">University of British Columbia</div>
+      <div style="padding-left: 26px; font-size: 0.8em;">University of British Columbia</div>
     </li>
 
   <li style="margin-bottom: 1em;">
-    <div style="display: flex; align-items: center;">
+    <div style="display: flex; align-items: center; font-size: 0.9em">
       <i class="fas fa-graduation-cap" style="margin-right: 8px;"></i>
       <span>M.A. in Economics, 2019</span>
     </div>
-    <div style="padding-left: 26px; font-size: 0.85em;">Universidad de San Andrés</div>
+    <div style="padding-left: 26px; font-size: 0.8em;">Universidad de San Andrés</div>
   </li>
 
   <li>
-    <div style="display: flex; align-items: center;">
+    <div style="display: flex; align-items: center; font-size: 0.9em">
       <i class="fas fa-graduation-cap" style="margin-right: 8px;"></i>
       <span>B.A. in Economics, 2018</span>
     </div>
-    <div style="padding-left: 26px; font-size: 0.85em;">Universidad del Pacífico</div>
+    <div style="padding-left: 26px; font-size: 0.8em;">Universidad del Pacífico</div>
   </li>
   </ul>
   </div>
