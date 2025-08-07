@@ -105,7 +105,7 @@ author:
   name             : "Carla Srebot"
   avatar           : "/assets/images/bio-photo-srebot.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   avatar_classes   : "wide" 
-  bio              : "Economist"
+  bio              : "Econ PhD Candidate at UBC"
   location         : "Vancouver, Canada"
   links:
     - label: "Email"
