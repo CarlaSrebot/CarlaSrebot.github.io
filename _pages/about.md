@@ -10,7 +10,7 @@ classes: wide
 
 <style>
   p {
-    font-size: 0.9rem;
+    font-size: 0.8rem;
     line-height: 1.5;
   }
 </style>
