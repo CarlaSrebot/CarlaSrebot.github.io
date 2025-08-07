@@ -16,3 +16,10 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Playfair Display', serif;
 }
+
+/* For banner headings like Research, Teaching, etc. */
+.banner-text, /* if there's a class like this */
+.navbar,     /* or your nav container */
+nav a {
+  font-family: 'Playfair Display', serif !important;
+}
