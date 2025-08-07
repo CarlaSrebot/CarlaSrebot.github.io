@@ -15,9 +15,11 @@ classes: wide
   }
 </style>
 
+<div style="max-width: 900px; margin: 0 auto; padding: 0 1rem;">
+
 <!-- Centered Name at the Top -->
 <div style="text-align: center; margin-top: 2rem; margin-bottom: 3rem;">
-  <h1 style="font-size: 2.2em; color: #356196ff; margin: 0;">Carla Srebot</h1>
+  <h1 style="font-size: 2.2em; color: #5086c8ff; margin: 0;">Carla Srebot</h1>
 </div>
 
 <!-- Main Content Section -->
@@ -98,4 +100,5 @@ classes: wide
   </ul>
 </div>
 
+</div>
 </div>
