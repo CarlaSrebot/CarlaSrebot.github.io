@@ -14,7 +14,7 @@ classes: wide
     line-height: 1.5;
   }
   .intro-text {
-    font-size: 0.9rem;
+    font-size: 0.87rem;
   }
 </style>
 
@@ -65,7 +65,7 @@ classes: wide
 
   <div style="flex: 1; min-width: 200px;">
       <h2 style="font-size: 1.1rem;">Interests</h2>
-      <ul>
+      <ul style="font-size: 0.9rem;">
         <li>Labor</li>
         <li>Development</li>
         <li>Gender</li>
