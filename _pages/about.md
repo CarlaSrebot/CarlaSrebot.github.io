@@ -16,18 +16,29 @@ classes: wide
   .intro-text {
     font-size: 0.87rem;
   }
-  /* Force center the main container */
+  /* Keep space for sidebar but center main content */
   .main-wrapper {
-    max-width: 900px !important;
-    margin: 0 auto !important;
+    max-width: 900px;
+    margin: 0 auto;
     padding: 0 1rem;
+    display: block;
   }
-  /* More space between name letters */
+  /* Make name not bold */
   .name-title {
     font-size: 2.2em;
     color: #4a7ab5ff;
     margin: 0;
-    letter-spacing: 2px; /* Adjust spacing */
+    letter-spacing: 2px;
+    font-weight: normal;
+  }
+  /* Ensure page layout respects sidebar space */
+  .page {
+    display: flex;
+    justify-content: center;
+  }
+  .page__content {
+    flex: 1 1 auto;
+    max-width: 900px;
   }
 </style>
 
@@ -50,7 +61,7 @@ classes: wide
 
   <!-- Right: Intro -->
   <div style="flex: 2; min-width: 300px;" class="intro-text">
-      <h2 style="margin-top: 0; font-size: 1.2rem;">Welcome to my webpage!</h2>
+    <h2 style="margin-top: 0; font-size: 1.2rem;">Welcome to my webpage!</h2>
 
   <p>
     I am a PhD candidate in Economics at the 
@@ -64,7 +75,7 @@ classes: wide
     You can learn more about my research
     <a href="https://carlasrebot.github.io/research/" target="_blank">here</a>
     and find my CV
-    <a href="https://carlasrebot.github.io/cv/" target="_blank">here</a>.
+    <a href="https://carlasrebot.github.io/assets/files/cv_srebot.pdf" target="_blank">here</a>.
   </p>
 
   <p>
@@ -74,42 +85,4 @@ classes: wide
   </div>
 
   <!-- Interests & Education -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
-
-  <div style="flex: 1; min-width: 200px;">
-    <h2 style="font-size: 1.1rem;">Interests</h2>
-    <ul style="font-size: 0.9rem;">
-      <li>Labor</li>
-      <li>Development</li>
-      <li>Gender</li>
-    </ul>
-  </div>
-
-  <div style="flex: 1; min-width: 200px;">
-    <h2 style="font-size: 1.1rem;">Education</h2>
-    <ul style="list-style: none; padding-left: 0;">
-      <li style="margin-bottom: 1em;">
-        <div style="display: flex; align-items: center; font-size: 0.9rem">
-          <i class="fas fa-graduation-cap" style="margin-right: 8px;"></i>
-          <span>PhD in Economics, 2021 – Present</span>
-        </div>
-        <div style="padding-left: 26px; font-size: 0.8em;">University of British Columbia</div>
-      </li>
-      <li style="margin-bottom: 1em;">
-        <div style="display: flex; align-items: center; font-size: 0.9rem">
-          <i class="fas fa-graduation-cap" style="margin-right: 8px;"></i>
-          <span>M.A. in Economics, 2019</span>
-        </div>
-        <div style="padding-left: 26px; font-size: 0.8em;">Universidad de San Andrés</div>
-      </li>
-      <li>
-        <div style="display: flex; align-items: center; font-size: 0.9rem">
-          <i class="fas fa-graduation-cap" style="margin-right: 8px;"></i>
-          <span>B.A. in Economics, 2018</span>
-        </div>
-        <div style="padding-left: 26px; font-size: 0.8em;">Universidad del Pacífico</div>
-      </li>
-    </ul>
-  </div>
-  </div>
-</div>
+  <div style="display: flex; flex-wrap:
