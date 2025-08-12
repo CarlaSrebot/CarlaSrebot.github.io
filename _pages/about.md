@@ -3,8 +3,7 @@ layout: single
 permalink: /
 title: " "
 author_profile: false
-sidebar:
-  nav: null
+sidebar: false
 classes: wide
 ---
 
@@ -16,29 +15,21 @@ classes: wide
   .intro-text {
     font-size: 0.87rem;
   }
-  /* Keep space for sidebar but center main content */
+  /* Center content with no sidebar */
   .main-wrapper {
     max-width: 900px;
     margin: 0 auto;
     padding: 0 1rem;
     display: block;
+    text-align: left;
   }
-  /* Make name not bold */
+  /* Name styling (not bold) */
   .name-title {
     font-size: 2.2em;
     color: #4a7ab5ff;
     margin: 0;
     letter-spacing: 2px;
     font-weight: normal;
-  }
-  /* Ensure page layout respects sidebar space */
-  .page {
-    display: flex;
-    justify-content: center;
-  }
-  .page__content {
-    flex: 1 1 auto;
-    max-width: 900px;
   }
 </style>
 
@@ -55,13 +46,13 @@ classes: wide
 
   <!-- Left: Photo -->
   <div style="flex: 1; min-width: 250px;">
-      <img src="/assets/images/bio-csrebot.jpg" alt="Carla Srebot" 
-           style="width: 100%; max-width: 1280px; max-height: 1280px; height: auto; border-radius: 8px;">
+    <img src="/assets/images/bio-csrebot.jpg" alt="Carla Srebot" 
+          style="width: 100%; max-width: 1280px; max-height: 1280px; height: auto; border-radius: 8px;">
   </div>
 
   <!-- Right: Intro -->
   <div style="flex: 2; min-width: 300px;" class="intro-text">
-    <h2 style="margin-top: 0; font-size: 1.2rem;">Welcome to my webpage!</h2>
+  <h2 style="margin-top: 0; font-size: 1.2rem;">Welcome to my webpage!</h2>
 
   <p>
     I am a PhD candidate in Economics at the 
