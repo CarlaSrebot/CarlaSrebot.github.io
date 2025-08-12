@@ -85,4 +85,42 @@ classes: wide
   </div>
 
   <!-- Interests & Education -->
-  <div style="display: flex; flex-wrap:
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
+
+  <div style="flex: 1; min-width: 200px;">
+    <h2 style="font-size: 1.1rem;">Interests</h2>
+    <ul style="font-size: 0.9rem;">
+      <li>Labor</li>
+      <li>Development</li>
+      <li>Gender</li>
+    </ul>
+  </div>
+
+  <div style="flex: 1; min-width: 200px;">
+    <h2 style="font-size: 1.1rem;">Education</h2>
+    <ul style="list-style: none; padding-left: 0;">
+      <li style="margin-bottom: 1em;">
+        <div style="display: flex; align-items: center; font-size: 0.9rem">
+          <i class="fas fa-graduation-cap" style="margin-right: 8px;"></i>
+          <span>PhD in Economics, 2021 – Present</span>
+        </div>
+        <div style="padding-left: 26px; font-size: 0.8em;">University of British Columbia</div>
+      </li>
+      <li style="margin-bottom: 1em;">
+        <div style="display: flex; align-items: center; font-size: 0.9rem">
+          <i class="fas fa-graduation-cap" style="margin-right: 8px;"></i>
+          <span>M.A. in Economics, 2019</span>
+        </div>
+        <div style="padding-left: 26px; font-size: 0.8em;">Universidad de San Andrés</div>
+      </li>
+      <li>
+        <div style="display: flex; align-items: center; font-size: 0.9rem">
+          <i class="fas fa-graduation-cap" style="margin-right: 8px;"></i>
+          <span>B.A. in Economics, 2018</span>
+        </div>
+        <div style="padding-left: 26px; font-size: 0.8em;">Universidad del Pacífico</div>
+      </li>
+    </ul>
+  </div>
+  </div>
+</div>
