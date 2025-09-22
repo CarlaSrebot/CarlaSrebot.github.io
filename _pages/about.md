@@ -47,9 +47,9 @@ classes: wide
   <!-- Left: Photo -->
   <div style="flex: 1; min-width: 250px;">
     <img src="/assets/images/bio-csrebot.jpg" alt="Carla Srebot"
-        style="width: 100%; max-width: 1600px; max-height: 1600px; height: auto; border-radius: 8px;">
+        style="width: 100%; max-width: 2000px; max-height: 2000px; height: auto; border-radius: 8px;">
   </div>
-  
+
   <!-- Right: Intro -->
   <div style="flex: 2; min-width: 300px;" class="intro-text">
   <h2 style="margin-top: 0; font-size: 1.2rem;">Welcome to my webpage!</h2>
