@@ -58,7 +58,7 @@ details > summary::-webkit-details-marker {
       </p>
   </details> 
  
-## Publications
+## Pre-PhD Publications
 
 * [Environmental Disasters and Mental Health: Evidence from Oil Spills in The Peruvian Amazon](https://doi.org/10.1111/rode.12955) \\
   With <a href="https://aysps.gsu.edu/profile/alberto-chong/" style="color: black; text-decoration: underline;">Alberto Chong</a> \\
