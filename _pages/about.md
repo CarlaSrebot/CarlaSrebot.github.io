@@ -46,8 +46,8 @@ classes: wide
 
   <!-- Left: Photo -->
   <div style="flex: 1; min-width: 250px;">
-    <img src="/assets/images/bio-csrebot.jpg" alt="Carla Srebot" 
-          style="width: 100%; max-width: 1280px; max-height: 1280px; height: auto; border-radius: 8px;">
+    <img src="/assets/images/bio-csrebot.jpg" alt="Carla Srebot"
+        style="width: 100%; max-width: 1600px; max-height: 1600px; height: auto; border-radius: 8px;">
   </div>
 
   <!-- Right: Intro -->
