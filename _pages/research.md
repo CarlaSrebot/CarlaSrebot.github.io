@@ -26,7 +26,7 @@ details > summary::-webkit-details-marker {
 </html>
 
 
-## Working papers
+## Working Papers
 * <details>
     <summary><p><a>Managers and the Cultural Transmission of Gender Norms</a><br>
     With <a href="https://virginiaminni.github.io/" style="color: black; text-decoration: underline;">Virginia Minni</a>, <a href="https://sites.google.com/view/kieutrangnguyen/home" style="color: black; text-decoration: underline;">Kieu-Trang Nguyen</a>, and <a href="https://sites.google.com/view/sarsons/home" style="color: black; text-decoration: underline;">Heather Sarsons</a> 
@@ -50,15 +50,16 @@ details > summary::-webkit-details-marker {
   With <a href="https://pascuel.github.io/" style="color: black; text-decoration: underline;">Pascuel Plotkin</a> 
 
 * <details>
-    <summary><p><a>Can Property Rights Foster Individualism?</a><br>
-    With <a href="https://economics.ubc.ca/profile/sara-benetti/" style="color: black; text-decoration: underline;">Sara Benetti</a> and <a href="https://christian-maruthiah.com/" style="color: black; text-decoration: underline;">Christian Maruthiah</a>
+    <summary><p><a>Assimilation Policy and Indigenous Political Institutions: Evidence from American Indian Constitutions
+    </a><br>
+    With <a href="https://www.sarabenetti.com/home" style="color: black; text-decoration: underline;">Sara Benetti</a> and <a href="https://christian-maruthiah.com/" style="color: black; text-decoration: underline;">Christian Maruthiah</a>
     </p>
     </summary>
-      <p align="justify"><b>Abstract.-</b> Individualism has been shown to have important economic, social and political consequences. This project examines whether individualism can be fostered by government policy, the degree to which it persists across generations, and its long-run implications for local economic development. We study these questions in the context of an ambitious land allotment programme targeting Native Americans in the early-20th century, using a range of historical and contemporary data sources. At the individual-level, we examine the effects of allotment on naming practices, intermarriage, participation in Native American civil rights associations, and location choice among descendants up to 100 years later. In order to document the long-term political and social consequences of allotment at the reservation-level, we construct new datasets on public goods provision, the occurence of and issues raised in local public meetings, and the content of modern tribal constitutions.	
+      <p align="justify"><b>Abstract.-</b> This project studies how assimilation policies targeting American Indians in the late 19th and early 20th centuries affected individualism, ethnic identity, and attitudes towards the U.S. government, as measured through the clauses and language used in over 350 newly digitised tribal constitutions and charters. We first demonstrate that there is meaningful variation in the types of clauses (e.g., blood quantum or residence restrictions on membership) and language (e.g., emphasising the “tribe” or the “individual”) across constitutions. We then examine how tribal characteristics and historical exposure to government policies – such as Indian schools and land allotment – affected constitutional features. Finally, we employ natural language processing techniques to measure the extent to which these characteristics affected trust and cooperation with the U.S. government during the Indian New Deal, as measured by semantic similarity between constitutions written in the 1930s and a ‘model’ constitution distributed by the Indian Office at the time. This project contributes to our understanding of how assimilation policies influenced Indigenous institutional development and political culture, highlighting the long-term effects of government intervention on tribal sovereignty, collective identity, and intergovernmental relations in American Indian Nations.	
       </p>
   </details> 
  
-## Pre-PhD Publications
+## Pre-Doctoral Publications
 
 * [Environmental Disasters and Mental Health: Evidence from Oil Spills in The Peruvian Amazon](https://doi.org/10.1111/rode.12955) \\
   With <a href="https://aysps.gsu.edu/profile/alberto-chong/" style="color: black; text-decoration: underline;">Alberto Chong</a> \\
