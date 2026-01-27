@@ -79,11 +79,9 @@ details > summary::-webkit-details-marker {
   With <a href="https://www.sarabenetti.com/home" style="color:black; text-decoration:underline;">Sara Benetti</a> and 
   <a href="https://christian-maruthiah.com/" style="color:black; text-decoration:underline;">Christian Maruthiah</a>
   <div style="margin:0; font-size:0.9em;">
-  <div style="margin:0; font-size:0.9em;">
-    <a href="#" onclick="toggleAbstract('abstract-flex'); return false;">[Abstract]</a> 
+    <a href="#" onclick="toggleAbstract('abstract-mnss'); return false;">[Abstract]</a> |
   </div>
-
-<details id="abstract-flex" style="margin:0; font-size:0.9em;">
+<details id="abstract-mnss" style="margin:0; font-size:0.9em;">
   <summary style="display:none;"></summary>
   <div style="padding-left:0.8em; border-left:3px solid #ddd; margin:0;">
     <p style="text-align:justify; margin:0;">
@@ -92,7 +90,7 @@ details > summary::-webkit-details-marker {
   </div>
 </details>
 
- 
+
 ## Pre-Doctoral Publications
 
 * [Environmental Disasters and Mental Health: Evidence from Oil Spills in The Peruvian Amazon](https://doi.org/10.1111/rode.12955) \\
