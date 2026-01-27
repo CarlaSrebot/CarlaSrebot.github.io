@@ -33,13 +33,12 @@ details > summary::-webkit-details-marker {
   </a>   
   With <a href="https://virginiaminni.github.io/" style="color:black; text-decoration:underline;">Virginia Minni</a>, 
   <a href="https://sites.google.com/view/kieutrangnguyen/home" style="color:black; text-decoration:underline;">Kieu-Trang Nguyen</a>, 
-  and <a href="https://sites.google.com/view/sarsons/home" style="color:black; text-decoration:underline;">Heather Sarsons</a>  
-  <br>
+  and <a href="https://sites.google.com/view/sarsons/home" style="color:black; text-decoration:underline;">Heather Sarsons</a>
 
-  <span style="font-size:0.9em;">
+  <div style="margin-top:0.4em; font-size:0.9em;">
     <a href="#" onclick="toggleAbstract('abstract-mnss'); return false;">[Abstract]</a> |
     <a href="https://carlasrebot.github.io/assets/files/MNSS ManagerNorms.pdf" target="_blank">[PDF]</a>
-  </span>
+  </div>
 
 <details id="abstract-mnss" style="margin-top:0.5em; font-size:0.9em;">
   <summary style="display:none;"></summary>
