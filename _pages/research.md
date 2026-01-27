@@ -27,14 +27,26 @@ details > summary::-webkit-details-marker {
 
 
 ## Working Papers
-* <details>
-    <summary><p><a>Managers and the Cultural Transmission of Gender Norms</a><br>
-    With <a href="https://virginiaminni.github.io/" style="color: black; text-decoration: underline;">Virginia Minni</a>, <a href="https://sites.google.com/view/kieutrangnguyen/home" style="color: black; text-decoration: underline;">Kieu-Trang Nguyen</a>, and <a href="https://sites.google.com/view/sarsons/home" style="color: black; text-decoration: underline;">Heather Sarsons</a> 
+
+* <a href="https://carlasrebot.github.io/assets/files/MNSS ManagerNorms.pdf">
+    Managers and the Cultural Transmission of Gender Norms
+  </a> \\  
+  With <a href="https://virginiaminni.github.io/" style="color:black; text-decoration:underline;">Virginia Minni</a>, 
+  <a href="https://sites.google.com/view/kieutrangnguyen/home" style="color:black; text-decoration:underline;">Kieu-Trang Nguyen</a>, 
+  and <a href="https://sites.google.com/view/sarsons/home" style="color:black; text-decoration:underline;">Heather Sarsons</a>  
+  <br>
+  <a href="#" onclick="document.getElementById('abstract-mnss').open = true; return false;">[Abstract]</a> | 
+  <a href="https://carlasrebot.github.io/assets/files/MNSS ManagerNorms.pdf" target="_blank">[PDF]</a>
+
+<details id="abstract-mnss" style="margin-top:0.5em;">
+  <summary style="display:none;"></summary>
+  <div style="padding-left:0.8em; border-left:3px solid #ddd;">
+    <p style="text-align:justify; margin:0;">
+      This paper examines the influence of managers from countries with different gender norms on workplace culture and gender disparities within organizations. Using data from a multinational firm operating in over 100 countries, we exploit cross-country manager rotations that are orthogonal to workers to estimate the impact of male managers’ gender norms on the work outcomes of male and female workers within the same team. Managers from countries with one standard deviation more progressive gender attitudes narrow the gender pay gap by 5 percentage points (18%), primarily by promoting women at higher rates. The effects persist beyond the manager’s rotation and are concentrated in countries with more conservative gender attitudes. Moreover, local managers in the destination office adjust their own behavior, becoming more gender-equal toward their subordinates. Overall, the evidence highlights the central role of individual managers in shaping corporate culture.
     </p>
-    </summary>
-      <p align="justify"><b>Abstract.-</b> This paper examines the influence of managers from countries with different gender norms on workplace culture and gender disparities within organizations. Using data from a multinational firm operating in over 100 countries, we exploit crosscountry manager rotations that are orthogonal to workers to estimate the impact of male managers’ gender norms on the work outcomes of male and female workers within the same team. Managers from countries with one standard deviation more progressive gender attitudes narrow the gender pay gap by 5 percentage points (18%), primarily by promoting women at higher rates. The effects last beyond the manager’s rotation and are concentrated in countries with more conservative gender attitudes. Moreover, local managers in the destination office change their own attitudes, as evidenced by those managers in turn being more gender-equal with their subordinates. Our evidence points to individual managers as critical in shaping corporate culture.
-      </p>
-  </details> 
+  </div>
+</details>
+
 
 * <details>
     <summary><p><a>Labor Market Flexibility and Gender Heterogeneity in Labor Allocation</a><br>
