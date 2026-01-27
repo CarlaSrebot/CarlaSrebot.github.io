@@ -30,15 +30,18 @@ details > summary::-webkit-details-marker {
 
 * <a href="https://carlasrebot.github.io/assets/files/MNSS ManagerNorms.pdf">
     Managers and the Cultural Transmission of Gender Norms
-  </a> \\  
+  </a>   
   With <a href="https://virginiaminni.github.io/" style="color:black; text-decoration:underline;">Virginia Minni</a>, 
   <a href="https://sites.google.com/view/kieutrangnguyen/home" style="color:black; text-decoration:underline;">Kieu-Trang Nguyen</a>, 
   and <a href="https://sites.google.com/view/sarsons/home" style="color:black; text-decoration:underline;">Heather Sarsons</a>  
   <br>
-  <a href="#" onclick="document.getElementById('abstract-mnss').open = true; return false;">[Abstract]</a> | 
-  <a href="https://carlasrebot.github.io/assets/files/MNSS ManagerNorms.pdf" target="_blank">[PDF]</a>
 
-<details id="abstract-mnss" style="margin-top:0.5em;">
+  <span style="font-size:0.9em;">
+    <a href="#" onclick="toggleAbstract('abstract-mnss'); return false;">[Abstract]</a> |
+    <a href="https://carlasrebot.github.io/assets/files/MNSS ManagerNorms.pdf" target="_blank">[PDF]</a>
+  </span>
+
+<details id="abstract-mnss" style="margin-top:0.5em; font-size:0.9em;">
   <summary style="display:none;"></summary>
   <div style="padding-left:0.8em; border-left:3px solid #ddd;">
     <p style="text-align:justify; margin:0;">
@@ -46,6 +49,13 @@ details > summary::-webkit-details-marker {
     </p>
   </div>
 </details>
+
+<script>
+  function toggleAbstract(id) {
+    const el = document.getElementById(id);
+    el.open = !el.open;
+  }
+</script>
 
 
 * <details>
