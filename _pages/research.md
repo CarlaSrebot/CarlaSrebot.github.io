@@ -75,7 +75,6 @@ details > summary::-webkit-details-marker {
 * **Disempowered Unions, Collective Bargaining, and Wage Inequality** \\
   With <a href="https://pascuel.github.io/" style="color: black; text-decoration: underline;">Pascuel Plotkin</a> 
 
-
 * **Assimilation Policy and Indigenous Political Institutions: Evidence from American Indian Constitutions**  
   With <a href="https://www.sarabenetti.com/home" style="color:black; text-decoration:underline;">Sara Benetti</a> and 
   <a href="https://christian-maruthiah.com/" style="color:black; text-decoration:underline;">Christian Maruthiah</a>
@@ -83,6 +82,7 @@ details > summary::-webkit-details-marker {
   <div style="margin:0; font-size:0.9em;">
     <a href="#" onclick="toggleAbstract('abstract-flex'); return false;">[Abstract]</a> 
   </div>
+
 <details id="abstract-flex" style="margin:0; font-size:0.9em;">
   <summary style="display:none;"></summary>
   <div style="padding-left:0.8em; border-left:3px solid #ddd; margin:0;">
