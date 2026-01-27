@@ -78,13 +78,13 @@ details > summary::-webkit-details-marker {
 * **Assimilation Policy and Indigenous Political Institutions: Evidence from American Indian Constitutions**  
   With <a href="https://www.sarabenetti.com/home" style="color:black; text-decoration:underline;">Sara Benetti</a> and 
   <a href="https://christian-maruthiah.com/" style="color:black; text-decoration:underline;">Christian Maruthiah</a>
-  <div style="margin:0; font-size:0.9em;">
-    <a href="#" onclick="toggleAbstract('abstract-indig'); return false;">[Abstract]</a>
+  <div style="margin:0;font-size:0.9em;">
+    <a href="#" onclick="toggleAbstract('abstract-indig');return false;">[Abstract]</a>
   </div>
-<details id="abstract-indig" style="margin:0; font-size:0.9em;">
+<details id="abstract-indig" style="margin:0;font-size:0.9em;">
   <summary style="display:none;"></summary>
-  <div style="padding-left:0.8em; border-left:3px solid #ddd; margin:0;">
-    <p style="text-align:justify; margin:0;">
+  <div style="padding-left:0.8em;border-left:3px solid #ddd;margin:0;">
+    <p style="text-align:justify;margin:0;">
       This project studies how assimilation policies targeting American Indians in the late 19th and early 20th centuries affected individualism, ethnic identity, and attitudes towards the U.S. government, as measured through the clauses and language used in over 350 newly digitised tribal constitutions and charters. We first demonstrate that there is meaningful variation in the types of clauses (e.g., blood quantum or residence restrictions on membership) and language (e.g., emphasising the “tribe” or the “individual”) across constitutions. We then examine how tribal characteristics and historical exposure to government policies—such as Indian schools and land allotment—shaped constitutional features. Finally, we employ natural language processing techniques to assess how these characteristics affected trust and cooperation with the U.S. government during the Indian New Deal, measured by semantic similarity between constitutions written in the 1930s and a “model” constitution distributed by the Indian Office. Overall, the project highlights the long-run effects of assimilation policies on Indigenous institutional development, political culture, tribal sovereignty, collective identity, and intergovernmental relations.
     </p>
   </div>
