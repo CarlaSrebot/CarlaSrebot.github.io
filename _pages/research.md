@@ -78,9 +78,9 @@ details > summary::-webkit-details-marker {
 * **Assimilation Policy and Indigenous Political Institutions: Evidence from American Indian Constitutions**  
   With <a href="https://www.sarabenetti.com/home" style="color:black; text-decoration:underline;">Sara Benetti</a> and 
   <a href="https://christian-maruthiah.com/" style="color:black; text-decoration:underline;">Christian Maruthiah</a>
-  <div style="margin:0;font-size:0.9em;">
+  <span style="font-size:0.9em;">
     <a href="#" onclick="toggleAbstract('abstract-indig');return false;">[Abstract]</a>
-  </div>
+  </span>
 <details id="abstract-indig" style="margin:0;font-size:0.9em;">
   <summary style="display:none;"></summary>
   <div style="padding-left:0.8em;border-left:3px solid #ddd;margin:0;">
