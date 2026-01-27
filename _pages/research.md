@@ -77,7 +77,7 @@ details > summary::-webkit-details-marker {
 
 * **Assimilation Policy and Indigenous Political Institutions: Evidence from American Indian Constitutions**  
   With <a href="https://www.sarabenetti.com/home" style="color:black; text-decoration:underline;">Sara Benetti</a> and 
-  <a href="https://christian-maruthiah.com/" style="color:black; text-decoration:underline;">Christian Maruthiah</a>
+  <a href="https://christian-maruthiah.com/" style="color:black; text-decoration:underline;">Christian Maruthiah</a><br>
   <span style="font-size:0.9em;">
     <a href="#" onclick="toggleAbstract('abstract-indig');return false;">[Abstract]</a>
   </span>
@@ -91,21 +91,25 @@ details > summary::-webkit-details-marker {
 </details>
 
 
-
 ## Pre-Doctoral Publications
 
-* [Environmental Disasters and Mental Health: Evidence from Oil Spills in The Peruvian Amazon](https://doi.org/10.1111/rode.12955) \\
+* <a href="https://doi.org/10.1111/rode.12955" target="_blank" rel="noopener noreferrer">
+    Environmental Disasters and Mental Health: Evidence from Oil Spills in The Peruvian Amazon
+  </a><br>
   With <a href="https://aysps.gsu.edu/profile/alberto-chong/" style="color: black; text-decoration: underline;">Alberto Chong</a> \\
   _Review of Development Economics,_
   Vol 27, May 2023. 
 
-* [Can Regional Trade Agreements Negatively Impact Primary Schooling?](https://doi.org/10.1007/s11079-022-09674-6) \\
+* <a href="https://doi.org/10.1007/s11079-022-09674-6" target="_blank" rel="noopener noreferrer">
+    Can Regional Trade Agreements Negatively Impact Primary Schooling?
+  </a><br>
   With <a href="https://aysps.gsu.edu/profile/alberto-chong/" style="color: black; text-decoration: underline;">Alberto Chong</a> \\
   _Open Economies Review,_
   Vol 34, April 2023. 
 
-* [Investment Confidence and Regional Trade Agreements with the United States](https://doi.org/10.1016/j.inteco.2020.05.001) \\
+* <a href="https://doi.org/10.1016/j.inteco.2020.05.001" target="_blank" rel="noopener noreferrer">
+    Investment Confidence and Regional Trade Agreements with the United States
+  </a><br>
   With <a href="https://aysps.gsu.edu/profile/alberto-chong/" style="color: black; text-decoration: underline;">Alberto Chong</a> \\
   _International Economics,_
   Vol 163, October 2020. 
-  
