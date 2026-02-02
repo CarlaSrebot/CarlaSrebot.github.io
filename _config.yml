@@ -115,7 +115,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CarlaSrebot"
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar-square"
+      icon: "fa-brands fa-google-scholar"
       url: "https://scholar.google.ca/citations?user=OesbmpIAAAAJ&hl=en&oi=ao"
 
 # Site Footer
@@ -128,7 +128,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CarlaSrebot"
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar-square"
+      icon: "fa-brands fa-google-scholar"
       url: "https://scholar.google.ca/citations?user=OesbmpIAAAAJ&hl=en&oi=ao"
 
 # Reading Files
