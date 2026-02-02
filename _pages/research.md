@@ -28,7 +28,7 @@ details > summary::-webkit-details-marker {
 
 ## Working Papers
 
-* <a href="https://carlasrebot.github.io/assets/files/MNSS ManagerNorms.pdf" target="_blank" rel="noopener noreferrer">
+* <a href="https://www.nber.org/papers/w34782" target="_blank" rel="noopener noreferrer">
     Managers and the Cultural Transmission of Gender Norms
   </a><br>
   With <a href="https://virginiaminni.github.io/" style="color:black; text-decoration:underline;">Virginia Minni</a>, 
