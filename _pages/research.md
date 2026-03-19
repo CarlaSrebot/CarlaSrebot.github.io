@@ -70,7 +70,7 @@ details > summary::-webkit-details-marker {
     Does greater flexibility create job opportunities and improve labor allocation? This paper examines how firms and workers respond to a labor market flexibility shock in a setting characterized by high regulation costs. Focusing on the Brazilian labor market, I leverage linked formal employer-employee data to analyze the impacts of the 2017 Labor Reform, a policy that removed constraints on flexible work schedules. I show that this policy change led to an increase in job opportunities and employment, especially in part-time positions. Notably, women experienced greater employment gains. At the state level, I observe that while the reform did not significantly impact unemployment rates, it contributed to reduce informality, which accounted for 40% of the workforce in 2016. Gender-specific analysis indicates that this effect is primarily driven by women transitioning from informal to formal employment within the private sector in the short run, followed by both women and men in the state-level economy in the medium run. These findings underscore the interaction between labor market flexibility and gender disparities, underscoring the potential of such reforms to reconfigure employment allocation. The case of the Brazilian reform offers a more nuanced perspective when informality is considered.    </p>
   </div>
 </details>
-  <div style="margin:0; font-size:0.9em;">
+  <div style="margin:0; margin-left:1.5em; font-size:0.9em;">
     Coverage: <a href="https://blogs.worldbank.org/en/impactevaluations/unlocking-women-s-economic-potential--cutting-edge-evidence-from" target="_blank" rel="noopener noreferrer">World Bank Blogs</a>
   </div>
 
@@ -88,7 +88,7 @@ details > summary::-webkit-details-marker {
   </span>
 <details id="abstract-indig" style="margin:0;font-size:0.9em;">
   <summary style="display:none;"></summary>
-  <div style="padding-left:0.8em;border-left:3px solid #ddd;margin:0;">
+  <div style="padding-left:0.8em;border-left:3px solid #ddd;margin:0;"> 
     <p style="text-align:justify;margin:0;">
     This project studies how assimilation policies targeting American Indians in the late 19th and early 20th centuries affected individualism, ethnic identity, and attitudes towards the U.S. government, as measured through the clauses and language used in over 350 newly digitised tribal constitutions and charters. We first demonstrate that there is meaningful variation in the types of clauses (e.g., blood quantum or residence restrictions on membership) and language (e.g., emphasising the “tribe” or the “individual”) across constitutions. We then examine how tribal characteristics and historical exposure to government policies – such as Indian schools and land allotment – affected constitutional features. Finally, we employ natural language processing techniques to measure the extent to which these characteristics affected trust and cooperation with the U.S. government during the Indian New Deal, as measured by semantic similarity between constitutions written in the 1930s and a ‘model’ constitution distributed by the Indian Office at the time. This project contributes to our understanding of how assimilation policies influenced Indigenous institutional development and political culture, highlighting the long-term effects of government intervention on tribal sovereignty, collective identity, and intergovernmental relations in American Indian Nations.    </p>
   </div>
