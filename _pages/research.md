@@ -46,7 +46,7 @@ details > summary::-webkit-details-marker {
     </p>
   </div>
 </details>
-  <div style="margin:0; font-size:0.9em;">
+  <div style="margin:0; margin-left:1.5em; font-size:0.9em;">
     Coverage: <a href="https://bfi.uchicago.edu/insights/managers-and-the-cultural-transmission-of-gender-norms/" target="_blank" rel="noopener noreferrer">BFI Research Brief</a>
   </div>
 
