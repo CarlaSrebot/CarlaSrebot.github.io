@@ -28,7 +28,7 @@ details > summary::-webkit-details-marker {
 
 ## Working Papers
 
-* <a href="https://www.nber.org/papers/w34782" target="_blank" rel="noopener noreferrer">
+* <a href="https://carlasrebot.github.io/assets/files/MNSS ManagerNorms.pdf" target="_blank" rel="noopener noreferrer">
     Managers and the Cultural Transmission of Gender Norms
   </a><br>
   With <a href="https://virginiaminni.github.io/" style="color:black; text-decoration:underline;">Virginia Minni</a>, 
@@ -46,6 +46,7 @@ details > summary::-webkit-details-marker {
     </p>
   </div>
 </details>
+  Coverage: <a href="https://bfi.uchicago.edu/insights/managers-and-the-cultural-transmission-of-gender-norms/" style="color:black; text-decoration:underline;">BFI Research Brief</a> 
 
 <script>
   function toggleAbstract(id) {
@@ -67,6 +68,7 @@ details > summary::-webkit-details-marker {
     Does greater flexibility create job opportunities and improve labor allocation? This paper examines how firms and workers respond to a labor market flexibility shock in a setting characterized by high regulation costs. Focusing on the Brazilian labor market, I leverage linked formal employer-employee data to analyze the impacts of the 2017 Labor Reform, a policy that removed constraints on flexible work schedules. I show that this policy change led to an increase in job opportunities and employment, especially in part-time positions. Notably, women experienced greater employment gains. At the state level, I observe that while the reform did not significantly impact unemployment rates, it contributed to reduce informality, which accounted for 40% of the workforce in 2016. Gender-specific analysis indicates that this effect is primarily driven by women transitioning from informal to formal employment within the private sector in the short run, followed by both women and men in the state-level economy in the medium run. These findings underscore the interaction between labor market flexibility and gender disparities, underscoring the potential of such reforms to reconfigure employment allocation. The case of the Brazilian reform offers a more nuanced perspective when informality is considered.    </p>
   </div>
 </details>
+  Coverage: <a href="https://blogs.worldbank.org/en/impactevaluations/unlocking-women-s-economic-potential--cutting-edge-evidence-from" style="color:black; text-decoration:underline;">World Bank Blogs</a> 
 
 
 ## Selected Work in Progress
