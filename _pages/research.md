@@ -72,7 +72,7 @@ details > summary::-webkit-details-marker {
 </details>
   <div style="margin:0; margin-left:2.0em; font-size:0.9em;">
     Coverage: <a href="https://blogs.worldbank.org/en/impactevaluations/unlocking-women-s-economic-potential--cutting-edge-evidence-from" target="_blank" rel="noopener noreferrer">World Bank Blogs</a> |
-    <a href="https://www.kaltura.com/index.php/extwidget/preview/partner_id/1930181/uiconf_id/56595592/entry_id/1_qevjiyuu/embed/dynamic" target="_blank" rel="noopener noreferrer">World Bank LAC Gender Innovation Lab Webinar</a>
+    <a href="https://www.kaltura.com/index.php/extwidget/preview/partner_id/1930181/uiconf_id/56595592/entry_id/1_qevjiyuu/embed/dynamic" target="_blank" rel="noopener noreferrer">World Bank LACGIL Webinar</a>
   </div>
 
 
