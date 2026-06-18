@@ -29,7 +29,7 @@ details > summary::-webkit-details-marker {
 ## Working Papers
 
 * <a href="https://carlasrebot.github.io/assets/files/MNSS ManagerNorms.pdf" target="_blank" rel="noopener noreferrer">
-    Managers and the Cultural Transmission of Gender Norms
+    Managers and the Transmission of Gender Norms and Practices
   </a><br>
   With <a href="https://virginiaminni.github.io/" style="color:black; text-decoration:underline;">Virginia Minni</a>, 
   <a href="https://sites.google.com/view/kieutrangnguyen/home" style="color:black; text-decoration:underline;">Kieu-Trang Nguyen</a>, 
@@ -42,7 +42,7 @@ details > summary::-webkit-details-marker {
   <summary style="display:none;"></summary>
   <div style="padding-left:0.8em; border-left:3px solid #ddd; margin:0;">
     <p style="text-align:justify; margin:0;">
-    This paper studies how managers’ gender attitudes shape workplace culture and gender inequality. Using data from a multinational firm operating in over 100 countries, we leverage cross-country manager rotations to identify the effects of male managers' gender attitudes on gender pay gaps within a team. Managers from countries with one standard deviation more progressive gender attitudes reduce the pay gap by 5 percentage points (18%), largely through higher promotion rates for women. These effects persist after managers rotate out and are strongest in more conservative countries. Managers with progressive attitudes also influence the local office culture, as local managers who interact with but are not under the purview of the foreign manager begin to have smaller pay gaps in their teams. Our evidence points to individual managers as critical in shaping corporate culture.
+    This paper studies how managers’ gender attitudes shape workplace practices and culture. Using data from a multinational firm operating in over 100 countries, we leverage cross-country manager rotations to identify the effects of male managers’ gender attitudes on gender pay gaps within teams. Managers from countries with one standard deviation more progressive gender attitudes reduce the pay gap by 5 percentage points (18% of the baseline gap), half of which is driven by women being promoted. These effects are strongest in conservative countries. They persist even after managers rotate out, in part because they influence the practices and attitudes of local managers, including peers who interact with them but are not under the direct purview of foreign managers.
     </p>
   </div>
 </details>
