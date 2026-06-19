@@ -35,6 +35,7 @@ details > summary::-webkit-details-marker {
   <a href="https://sites.google.com/view/kieutrangnguyen/home" style="color:black; text-decoration:underline;">Kieu-Trang Nguyen</a>, 
   and <a href="https://sites.google.com/view/sarsons/home" style="color:black; text-decoration:underline;">Heather Sarsons</a>
   <div style="margin:0; font-size:0.9em;">
+    June 2026, <em>Working Paper</em> |
     <a href="#" onclick="toggleAbstract('abstract-mnss'); return false;">[Abstract]</a> |
     <a href="https://carlasrebot.github.io/assets/files/MNSS ManagerNorms.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
   </div>
@@ -61,8 +62,8 @@ details > summary::-webkit-details-marker {
     Labor Market Flexibility and Gender Heterogeneity in Labor Allocation
   </a><br>
   <div style="margin:0; font-size:0.9em;">
-    <a href="#" onclick="toggleAbstract('abstract-flex'); return false;">[Abstract]</a> |
-    <a href="https://dx.doi.org/10.2139/ssrn.6308422" target="_blank" rel="noopener noreferrer">[Paper]</a>
+    February 2026, <em>Working Paper</em> |
+    <a href="#" onclick="toggleAbstract('abstract-flex'); return false;">[Abstract]</a>
   </div>
 <details id="abstract-flex" style="margin:0; font-size:0.9em;">
   <summary style="display:none;"></summary>
