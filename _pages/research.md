@@ -57,11 +57,12 @@ details > summary::-webkit-details-marker {
   }
 </script>
 
-
-* **Labor Market Flexibility and Gender Heterogeneity in Labor Allocation** \\
+* <a href="https://dx.doi.org/10.2139/ssrn.6308422" target="_blank" rel="noopener noreferrer">
+    Labor Market Flexibility and Gender Heterogeneity in Labor Allocation
+  </a><br>
   <div style="margin:0; font-size:0.9em;">
     <a href="#" onclick="toggleAbstract('abstract-flex'); return false;">[Abstract]</a> |
-    <span>[Draft available upon request]</span>
+    <a href="https://dx.doi.org/10.2139/ssrn.6308422" target="_blank" rel="noopener noreferrer">[Paper]</a>
   </div>
 <details id="abstract-flex" style="margin:0; font-size:0.9em;">
   <summary style="display:none;"></summary>
