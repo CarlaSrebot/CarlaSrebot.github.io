@@ -8,6 +8,6 @@ header:
 classes: wide
 ---
 
-If you can't see my CV below, you can find it [here](https://carlasrebot.github.io/assets/files/cv_srebot.pdf).
+If you can't see my CV below, you can find it [here](https://carlasrebot.github.io/assets/files/cv_srebot_aug2026.pdf).
 
 <iframe src="https://carlasrebot.github.io/assets/files/cv_srebot.pdf" width="100%" height="800px">    </iframe>

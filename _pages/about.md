@@ -66,7 +66,7 @@ classes: wide
     You can learn more about my research
     <a href="https://carlasrebot.github.io/research/" target="_blank">here</a>
     and find my CV
-    <a href="https://carlasrebot.github.io/assets/files/cv_srebot.pdf" target="_blank">here</a>.
+    <a href="https://carlasrebot.github.io/assets/files/cv_srebot_aug2026.pdf" target="_blank">here</a>.
   </p>
  
   <p>
