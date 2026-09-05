@@ -80,8 +80,10 @@ details > summary::-webkit-details-marker {
 
 ## Selected Work in Progress
 
-* **Disempowered Unions, Collective Bargaining, and Wage Inequality** \\
-  With <a href="https://pascuel.github.io/" style="color: black; text-decoration: underline;">Pascuel Plotkin</a> 
+* **Coaching the Match: Experimental Evidence from Chatbot Assistance and AI Augmentation in Mozambique’s Gig Economy**  
+  With <a href="https://de.linkedin.com/in/jorge-zavala-delgado/es" style="color:black; text-decoration:underline;">Jorge Zavala</a> 
+
+* **Bargaining across the Public–Private Margin: Unions, Gender Gaps, and Economic Mobility**  
 
 * **Assimilation Policy and Indigenous Political Institutions: Evidence from American Indian Constitutions**  
   With <a href="https://www.sarabenetti.com/home" style="color:black; text-decoration:underline;">Sara Benetti</a> and 
