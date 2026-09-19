@@ -6,6 +6,8 @@
 :root {
   --accent:        #4a7ab5;  /* signature blue, carried over from the old site */
   --accent-dark:   #2f5480;
+  --meta-text:     #3d3d3d;  /* date / "Working Paper" line — darker than body muted */
+  --meta-link:     #1c3a5e;  /* [Abstract] / [PDF] links — darker than accent-dark */
   --accent-soft:   #eef3f9;
   --text:          #1f1f1f;
   --muted:         #6b6b6b;
@@ -26,6 +28,8 @@
 }
 
 html {
+  /* Base size drives every rem in this file — bumped 16px -> 17px (~1pt). */
+  font-size: 17px;
   -webkit-text-size-adjust: 100%;
   scroll-behavior: smooth;
 }
@@ -183,12 +187,25 @@ hr {
 
 .page-hero {
   margin-top: var(--nav-h);
-  height: 220px;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
+  min-height: 250px;
+  display: flex;
+  align-items: flex-end;
+  /* Light at the top so the photo keeps its colour, darker at the base so the
+     title stays legible over the mountains. */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.08) 45%, rgba(0, 0, 0, 0.52)),
                     url('/assets/images/P001.jpg');
   background-size: cover;
   background-position: center 60%;
   background-repeat: no-repeat;
+}
+
+.hero-title {
+  color: #fff;
+  font-size: 2.6rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  margin: 0 0 1.4rem;
+  text-shadow: 0 1px 8px rgba(0, 0, 0, 0.55);
 }
 
 /* --------------------------------------------------------------------------
@@ -210,14 +227,10 @@ hr {
 
 .post-title {
   font-size: 2.4rem;
-  font-weight: 400;
+  font-weight: 700;
   margin: 0;
   letter-spacing: 0.02em;
   color: var(--accent);
-}
-
-.post-title .lead-name {
-  font-weight: 700;
 }
 
 .desc {
@@ -232,9 +245,9 @@ hr {
    -------------------------------------------------------------------------- */
 
 .profile {
-  float: right;
+  float: left;
   width: 230px;
-  margin: 0.25rem 0 1.5rem 2.25rem;
+  margin: 0.25rem 2.25rem 1.5rem 0;
   text-align: center;
 }
 
@@ -249,23 +262,8 @@ hr {
   box-shadow: 0 2px 12px rgba(0, 0, 0, 0.14);
 }
 
-.profile .address {
-  margin-top: 1rem;
-  font-size: 0.85rem;
-  line-height: 1.5;
-  color: var(--muted);
-}
-
-.profile .address p {
-  margin: 0 0 0.15rem;
-}
-
-.profile .address a {
-  color: var(--accent-dark);
-}
-
 .contact-icons {
-  margin-top: 0.6rem;
+  margin-top: 0.9rem;
 }
 
 .contact-icons a {
@@ -321,11 +319,15 @@ article li {
 
 .meta {
   font-size: 0.88rem;
-  color: var(--muted);
+  color: var(--meta-text);
 }
 
 .meta a {
-  color: var(--accent-dark);
+  color: var(--meta-link);
+}
+
+.meta a:hover {
+  color: var(--accent);
 }
 
 .coauthors a {
@@ -500,6 +502,11 @@ details.abstract > summary::-webkit-details-marker {
   }
 
   .page-hero {
-    height: 150px;
+    min-height: 160px;
+  }
+
+  .hero-title {
+    font-size: 1.9rem;
+    margin-bottom: 1rem;
   }
 }
