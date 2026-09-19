@@ -13,12 +13,6 @@
     });
   }
 
-  /* Keep the footer year current without touching the HTML each January. */
-  var year = document.getElementById('year');
-  if (year) {
-    year.textContent = new Date().getFullYear();
-  }
-
   /* Abstract toggles on the research page. */
   document.addEventListener('click', function (event) {
     var trigger = event.target.closest && event.target.closest('[data-abstract]');

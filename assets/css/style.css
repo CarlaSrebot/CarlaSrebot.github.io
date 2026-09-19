@@ -309,6 +309,10 @@ article p {
   -webkit-hyphens: auto;
 }
 
+.bio a {
+  text-decoration: underline;
+}
+
 article h2 {
   font-size: 1.45rem;
   font-weight: 600;
@@ -339,6 +343,7 @@ article li {
 
 .meta a {
   color: var(--meta-link);
+  text-decoration: underline;
 }
 
 .meta a:hover {
