@@ -330,6 +330,11 @@ article li {
   color: var(--accent);
 }
 
+.coauthors {
+  /* One point down from the 0.97rem list text. */
+  font-size: 0.89rem;
+}
+
 .coauthors a {
   color: var(--text);
   text-decoration: underline;
