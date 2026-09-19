@@ -251,7 +251,7 @@ hr {
 
 .profile {
   float: left;
-  width: 230px;
+  width: 290px;
   margin: 0.25rem 2.25rem 1.5rem 0;
   text-align: center;
 }
@@ -297,6 +297,14 @@ article p {
   margin: 0 0 1rem;
   font-size: 0.97rem;
   line-height: 1.75;
+}
+
+/* Bio runs in a narrow column beside the portrait, so allow hyphenation —
+   justified text that narrow otherwise opens rivers of white space. */
+.bio p {
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
 }
 
 article h2 {
@@ -503,8 +511,15 @@ details.abstract > summary::-webkit-details-marker {
 
   .profile {
     float: none;
-    width: 200px;
+    width: 240px;
     margin: 0 auto 1.5rem;
+  }
+
+  /* Full-width column on a phone: justification is no longer a problem,
+     but keep hyphenation off so short lines do not break awkwardly. */
+  .bio p {
+    hyphens: none;
+    -webkit-hyphens: none;
   }
 
   .post-title {
