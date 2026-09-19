@@ -302,6 +302,7 @@ article p {
 /* Bio runs in a narrow column beside the portrait, so allow hyphenation —
    justified text that narrow otherwise opens rivers of white space. */
 .bio p {
+  font-size: 0.89rem;
   text-align: justify;
   hyphens: auto;
   -webkit-hyphens: auto;
