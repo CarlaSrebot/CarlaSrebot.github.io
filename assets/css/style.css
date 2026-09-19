@@ -117,7 +117,7 @@ hr {
 .navbar-brand {
   font-family: 'Playfair Display', Georgia, serif;
   font-size: 1.1rem;
-  font-weight: 600;
+  font-weight: 400;
   letter-spacing: 0.03em;
   color: var(--accent-dark);
 }
@@ -227,10 +227,15 @@ hr {
 
 .post-title {
   font-size: 2.4rem;
-  font-weight: 700;
+  font-weight: 400;
   margin: 0;
   letter-spacing: 0.02em;
   color: var(--accent);
+}
+
+/* Surname stays light; only the first name is bold. */
+.lead-name {
+  font-weight: 700;
 }
 
 .desc {
@@ -302,7 +307,7 @@ article h2 {
 
 article h3 {
   font-size: 1.15rem;
-  font-weight: 600;
+  font-weight: 400;
   margin: 1.75rem 0 0.75rem;
 }
 
