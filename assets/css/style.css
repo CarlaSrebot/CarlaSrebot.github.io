@@ -187,7 +187,7 @@ hr {
 
 .page-hero {
   margin-top: var(--nav-h);
-  min-height: 250px;
+  min-height: 160px;
   display: flex;
   align-items: flex-end;
   /* Light at the top so the photo keeps its colour, darker at the base so the
@@ -201,10 +201,10 @@ hr {
 
 .hero-title {
   color: #fff;
-  font-size: 2.6rem;
+  font-size: 2.15rem;
   font-weight: 800;
   letter-spacing: 0.02em;
-  margin: 0 0 1.4rem;
+  margin: 0 0 0.9rem;
   text-shadow: 0 1px 8px rgba(0, 0, 0, 0.55);
 }
 
@@ -502,11 +502,11 @@ details.abstract > summary::-webkit-details-marker {
   }
 
   .page-hero {
-    min-height: 160px;
+    min-height: 120px;
   }
 
   .hero-title {
-    font-size: 1.9rem;
-    margin-bottom: 1rem;
+    font-size: 1.7rem;
+    margin-bottom: 0.7rem;
   }
 }
