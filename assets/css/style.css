@@ -302,8 +302,8 @@ article p {
 /* Bio runs in a narrow column beside the portrait, so allow hyphenation —
    justified text that narrow otherwise opens rivers of white space. */
 .bio p {
-  /* No font-size here on purpose: inherits article p (0.97rem), the same
-     size as the list items on the research and teaching pages. */
+  /* Half a point below article p (0.97rem): 0.97rem - 0.5pt ~ 0.93rem. */
+  font-size: 0.93rem;
   text-align: justify;
   hyphens: auto;
   -webkit-hyphens: auto;
