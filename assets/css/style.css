@@ -251,7 +251,7 @@ hr {
 
 .profile {
   float: left;
-  width: 290px;
+  width: 330px;
   margin: 0.25rem 2.25rem 1.5rem 0;
   text-align: center;
 }
@@ -518,7 +518,7 @@ details.abstract > summary::-webkit-details-marker {
 
   .profile {
     float: none;
-    width: 240px;
+    width: 270px;
     margin: 0 auto 1.5rem;
   }
 
